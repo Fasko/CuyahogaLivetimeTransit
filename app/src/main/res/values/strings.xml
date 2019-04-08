@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cuyahoga Livetime Transit</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_routes">Routes</string>
+    <string name="title_notifications">Alerts</string>
+    <string name="title_activity_routes">Routes</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+</resources>
