@@ -17,6 +17,19 @@ public class MainActivity extends AppCompatActivity {
         TextView title = (TextView) findViewById(R.id.homeTitle1);
         title.setText("Favorites");
 
+        //open DB
+        DatabaseAccess databaseAccess = DatabaseAccess.getInstance(getApplicationContext());
+        databaseAccess.open();
+
+
+        // TODO: remove, this is for testing querying the database
+        String myString = databaseAccess.getAddress("");
+        System.out.println(myString);
+
+        databaseAccess.close();
+
+
+
         BottomNavigationView navigation = (BottomNavigationView) findViewById(R.id.navigation);
         navigation.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
             @Override
