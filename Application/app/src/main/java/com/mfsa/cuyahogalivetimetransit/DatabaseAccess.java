@@ -5,6 +5,8 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
+import java.util.ArrayList;
+
 public class DatabaseAccess {
     private SQLiteOpenHelper openHelper;
     private SQLiteDatabase db;
@@ -46,4 +48,40 @@ public class DatabaseAccess {
         }
         return buffer.toString();
     }
+
+    public ArrayList<String> getRoutes(){
+        ArrayList<String> routeList = new ArrayList<>();
+        c = db.rawQuery("Select Distinct Route from RDS_table;", new String[]{});
+        while (c.moveToNext()){
+            routeList.add(c.getString(0));
+        }
+        return routeList;
+    }
+
+
+    public ArrayList<String> getDirections(String route){
+        ArrayList<String> directionList = new ArrayList<>();
+        c = db.rawQuery("Select Distinct Direction from RDS_table where Route = ?;", new String[]{route});
+        while (c.moveToNext()){
+            directionList.add(c.getString(0));
+        }
+        return directionList;
+    }
+
+    public ArrayList<String> getStops(String route, String direction){
+        ArrayList<String> stopList = new ArrayList<>();
+        c = db.rawQuery("Select Distinct Stop from RDS_table where Route = ? and Direction = ?;", new String[]{route, direction});
+        while (c.moveToNext()){
+            stopList.add(c.getString(0));
+        }
+        return stopList;
+    }
+
+    public String getURL(String route, String direction, String stop){
+        c = db.rawQuery("Select URL from RDS_table where Route = ? and Direction = ? and Stop = ?;", new String[]{route, direction, stop});
+        c.moveToNext();
+        
+        return (c.getString(0));
+    }
+
 }
