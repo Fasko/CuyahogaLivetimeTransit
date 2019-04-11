@@ -6,9 +6,12 @@ import android.support.annotation.NonNull;
 import android.support.design.widget.BottomNavigationView;
 import android.support.v7.app.AppCompatActivity;
 import android.view.MenuItem;
+import android.widget.ArrayAdapter;
+import android.widget.Spinner;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -17,18 +20,34 @@ public class MainActivity extends AppCompatActivity {
         TextView title = (TextView) findViewById(R.id.homeTitle1);
         title.setText("Favorites");
 
-        //open DB
+        //TODO: only open database when making requests, except for Routes open DB
         DatabaseAccess databaseAccess = DatabaseAccess.getInstance(getApplicationContext());
         databaseAccess.open();
 
 
-        // TODO: remove, this is for testing querying the database
-        String myString = databaseAccess.getAddress("");
-        System.out.println(myString);
+
+        //TODO: put spinner stuff in seperate class, or in a listener
+
+        ArrayAdapter<String> spinnerArrayAdapter = new ArrayAdapter<String>(
+                this, android.R.layout.simple_spinner_item, databaseAccess.getRoutes());
+        spinnerArrayAdapter.setDropDownViewResource( android.R.layout.simple_spinner_dropdown_item );
+
+        Spinner spinRoutes = findViewById(R.id.spinRoute);
+        spinRoutes.setAdapter(spinnerArrayAdapter);
+
+        String selectedRoute = spinRoutes.getSelectedItem().toString();
+
+/*
+        System.out.println(selectedRoute);
+*/
+
+/*
+        databaseAccess.getDirections("55 - Cleveland State Line");
+        databaseAccess.getStops("55 - Cleveland State Line", "East");
+        databaseAccess.getURL("55 - Cleveland State Line", "East", "CLIFTON BLVD & COVE AV");
+*/
 
         databaseAccess.close();
-
-
 
         BottomNavigationView navigation = (BottomNavigationView) findViewById(R.id.navigation);
         navigation.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {

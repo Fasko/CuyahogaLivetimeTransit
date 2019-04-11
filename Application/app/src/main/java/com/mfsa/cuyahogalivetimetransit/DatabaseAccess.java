@@ -70,7 +70,7 @@ public class DatabaseAccess {
         return stopList;
     }
 
-    
+
     public String getURL(String route, String direction, String stop){
         c = db.rawQuery("Select URL from RDS_table where Route = ? and Direction = ? and Stop = ?;", new String[]{route, direction, stop});
         c.moveToNext();
