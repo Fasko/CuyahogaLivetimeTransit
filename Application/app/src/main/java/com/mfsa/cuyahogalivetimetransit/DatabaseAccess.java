@@ -18,6 +18,7 @@ public class DatabaseAccess {
         this.openHelper=new DatabaseOpenHelper(context);
     }
 
+
     public static DatabaseAccess getInstance(Context context){
         if(instance == null){
             instance = new DatabaseAccess(context);
@@ -26,10 +27,12 @@ public class DatabaseAccess {
         return instance;
     }
 
+
     public void open(){
         this.db = openHelper.getWritableDatabase();
 
     }
+
 
     public void close(){
         if(db != null){
@@ -37,17 +40,6 @@ public class DatabaseAccess {
         }
     }
 
-
-    // TODO implement custom queries, this one will Give the URLS where the Direction = East
-    public String getAddress(String name){
-        c = db.rawQuery("Select * From RDS_table where Direction = ?;", new String[]{"East"});
-        StringBuffer buffer = new StringBuffer();
-        while(c.moveToNext()){
-            String address = c.getString(3);
-            buffer.append(" "+address);
-        }
-        return buffer.toString();
-    }
 
     public ArrayList<String> getRoutes(){
         ArrayList<String> routeList = new ArrayList<>();
@@ -68,6 +60,7 @@ public class DatabaseAccess {
         return directionList;
     }
 
+
     public ArrayList<String> getStops(String route, String direction){
         ArrayList<String> stopList = new ArrayList<>();
         c = db.rawQuery("Select Distinct Stop from RDS_table where Route = ? and Direction = ?;", new String[]{route, direction});
@@ -77,11 +70,11 @@ public class DatabaseAccess {
         return stopList;
     }
 
+    
     public String getURL(String route, String direction, String stop){
         c = db.rawQuery("Select URL from RDS_table where Route = ? and Direction = ? and Stop = ?;", new String[]{route, direction, stop});
         c.moveToNext();
-        
+
         return (c.getString(0));
     }
-
 }
