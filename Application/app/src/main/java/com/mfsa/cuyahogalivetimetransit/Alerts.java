@@ -42,6 +42,7 @@ public class Alerts extends AppCompatActivity {
                     case R.id.navigation_alerts:
                         break;
                 }
+                Alerts.this.overridePendingTransition(0,0);
                 return false;
             }
         });

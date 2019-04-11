@@ -43,6 +43,7 @@ public class Routes extends AppCompatActivity {
                         finish();
                         break;
                 }
+                Routes.this.overridePendingTransition(0,0);
                 return false;
             }
         });

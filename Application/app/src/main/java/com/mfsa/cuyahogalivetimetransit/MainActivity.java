@@ -50,6 +50,8 @@ public class MainActivity extends AppCompatActivity {
 
                         break;
                 }
+                MainActivity.this.overridePendingTransition(0,0);
+
                 return false;
             }
         });
