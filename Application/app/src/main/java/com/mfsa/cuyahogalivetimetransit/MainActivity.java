@@ -10,6 +10,9 @@ import android.widget.ArrayAdapter;
 import android.widget.Spinner;
 import android.widget.TextView;
 
+import java.util.ArrayList;
+
+
 public class MainActivity extends AppCompatActivity {
 
 
@@ -21,35 +24,72 @@ public class MainActivity extends AppCompatActivity {
         title.setText("Favorites");
 
         //TODO: only open database when making requests, except for Routes open DB
-        DatabaseAccess databaseAccess = DatabaseAccess.getInstance(getApplicationContext());
+        final DatabaseAccess databaseAccess = DatabaseAccess.getInstance(getApplicationContext());
         databaseAccess.open();
 
 
-
         //TODO: put spinner stuff in seperate class, or in a listener
+        ArrayList<String> allRoutes  = databaseAccess.getRoutes();
+        ArrayAdapter<String> spinnerArrayAdapterRoute = new ArrayAdapter<>(
+                this, android.R.layout.simple_spinner_item, allRoutes);
+        spinnerArrayAdapterRoute.setDropDownViewResource( android.R.layout.simple_spinner_dropdown_item );
 
-        ArrayAdapter<String> spinnerArrayAdapter = new ArrayAdapter<String>(
-                this, android.R.layout.simple_spinner_item, databaseAccess.getRoutes());
-        spinnerArrayAdapter.setDropDownViewResource( android.R.layout.simple_spinner_dropdown_item );
+        final Spinner spinRoutes = findViewById(R.id.spinRoute);
+        spinRoutes.setAdapter(spinnerArrayAdapterRoute);
+        final String[] selectedRoute = new String[1];
+        if (selectedRoute[0] == null){
+            selectedRoute[0] = spinRoutes.getSelectedItem().toString();
+        }
 
-        Spinner spinRoutes = findViewById(R.id.spinRoute);
-        spinRoutes.setAdapter(spinnerArrayAdapter);
 
-        String selectedRoute = spinRoutes.getSelectedItem().toString();
+/*      //TODO: make another spinner depending on the selection of the first spinner
+        //TODO: move the second spinner out of OnCreate()
+        final ArrayList<String>[] allDirections = new ArrayList[]{databaseAccess.getDirections(selectedRoute[0])};
 
-/*
-        System.out.println(selectedRoute);
-*/
+        spinRoutes.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+                selectedRoute[0] = parent.getItemAtPosition(position).toString();
+                selectedRoute[0] = parent.getSelectedItem().toString();
+                allDirections[0] = databaseAccess.getDirections(selectedRoute[0]);
+                System.out.println(selectedRoute[0]);
+            }
 
-/*
-        databaseAccess.getDirections("55 - Cleveland State Line");
-        databaseAccess.getStops("55 - Cleveland State Line", "East");
-        databaseAccess.getURL("55 - Cleveland State Line", "East", "CLIFTON BLVD & COVE AV");
-*/
+            @Override
+            public void onNothingSelected(AdapterView<?> parent) {
+                //Another interface callback
+                selectedRoute[0] = parent.toString();
+                System.out.println(selectedRoute[0]);
+            }
+        });
 
-        databaseAccess.close();
 
-        BottomNavigationView navigation = (BottomNavigationView) findViewById(R.id.navigation);
+        ArrayAdapter<String> spinnerArrayAdapterDirection = new ArrayAdapter<>(
+                this, android.R.layout.simple_spinner_item, allDirections[0]);
+        spinnerArrayAdapterDirection.setDropDownViewResource( android.R.layout.simple_spinner_dropdown_item );
+
+        Spinner spinDirections = findViewById(R.id.spinDirection);
+        spinDirections.setAdapter(spinnerArrayAdapterDirection);
+        final String[] selectedDirection = new String[1];
+
+        spinDirections.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+                selectedDirection[0] = parent.getItemAtPosition(position).toString();
+                System.out.println(selectedDirection[0]);
+            }
+
+            @Override
+            public void onNothingSelected(AdapterView<?> parent) {
+                //Another interface callback
+                selectedDirection[0] = parent.toString();
+                System.out.println(selectedDirection[0]);
+            }
+        });*/
+
+
+
+        BottomNavigationView navigation = findViewById(R.id.navigation);
         navigation.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
             @Override
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
