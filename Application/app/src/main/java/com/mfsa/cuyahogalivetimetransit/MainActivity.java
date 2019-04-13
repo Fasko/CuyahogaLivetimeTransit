@@ -12,6 +12,11 @@ import android.widget.ArrayAdapter;
 import android.widget.Spinner;
 import android.widget.TextView;
 
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+
+import java.io.IOException;
 import java.util.ArrayList;
 
 
@@ -130,6 +135,13 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
                 String stopURL = databaseAccess.getURL(route,direction,parent.getSelectedItem().toString());
+                try {
+                    Document dc = Jsoup.connect(stopURL).get();
+                    Element title = dc.select("title").first();
+                    System.out.println(dc);
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
                 System.out.println(stopURL);
             }
 
@@ -138,6 +150,6 @@ public class MainActivity extends AppCompatActivity {
                 //Another interface callback
             }
         });
-
     }
+
 }
