@@ -1,6 +1,7 @@
 package com.mfsa.cuyahogalivetimetransit;
 
 import android.content.Intent;
+import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.design.widget.BottomNavigationView;
@@ -135,13 +136,8 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
                 String stopURL = databaseAccess.getURL(route,direction,parent.getSelectedItem().toString());
-                try {
-                    Document dc = Jsoup.connect(stopURL).get();
-                    Element title = dc.select("title").first();
-                    System.out.println(dc);
-                } catch (IOException e) {
-                    e.printStackTrace();
-                }
+                MyAsyncTask async = new MyAsyncTask();
+                async.execute(stopURL);
                 System.out.println(stopURL);
             }
 
@@ -150,6 +146,26 @@ public class MainActivity extends AppCompatActivity {
                 //Another interface callback
             }
         });
+    }
+
+    public class MyAsyncTask extends AsyncTask<String, Void, Document>{
+
+        // Fetch the HTML source from the website
+        @Override
+        protected Document doInBackground(String... strings) {
+            Document document = null;
+            try {
+                document = Jsoup.connect(strings[0]).get();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+            return document;
+        }
+
+        @Override
+        protected void onPostExecute(Document document) {
+            //do JSoup stuff here
+        }
     }
 
 }
