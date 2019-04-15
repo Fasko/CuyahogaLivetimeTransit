@@ -16,9 +16,11 @@ import android.widget.TextView;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.List;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -148,14 +150,14 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-    public class MyAsyncTask extends AsyncTask<String, Void, Document>{
+    public class MyAsyncTask extends AsyncTask<String, Void, Document> {
 
         // Fetch the HTML source from the website
         @Override
         protected Document doInBackground(String... strings) {
             Document document = null;
             try {
-                document = Jsoup.connect(strings[0]).get();
+                document = Jsoup.connect(strings[0]).userAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0").get();
             } catch (IOException e) {
                 e.printStackTrace();
             }
@@ -164,7 +166,27 @@ public class MainActivity extends AppCompatActivity {
 
         @Override
         protected void onPostExecute(Document document) {
-            //do JSoup stuff here
+            Elements nextVehicles = document.select(".ada");
+            List<String> adaClass = nextVehicles.eachAttr("title");
+
+            Elements arrivalTime = document.select(".adatime");
+            List<String> adatimeClass = arrivalTime.eachAttr("title");
+
+            ArrayList<String> stopLabel = new ArrayList<String>();
+            Elements scheduledTimes = document.select(".stopLabel");
+            for (Element scheduleTime : scheduledTimes){
+                String scheduleTimesToText = scheduleTime.text();
+                scheduleTimesToText = scheduleTimesToText.replace("&nbsp", "");
+                stopLabel.add(scheduleTimesToText);
+
+            }
+            if (adaClass.get(0).equals("No further buses scheduled for this stop<br>")){
+                adaClass.set(0, "No further buses scheduled for this stop.");
+            }
+            //TODO: add UI to display each of those lists.
+            System.out.println(adaClass);
+            System.out.println(adatimeClass);
+            System.out.println(stopLabel);
         }
     }
 
