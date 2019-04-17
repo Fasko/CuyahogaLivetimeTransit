@@ -19,6 +19,39 @@
             android:id="@+id/activityTitle2"
             android:textAlignment="center"/>
 
+
+        <Spinner
+            android:id="@+id/spinRoute"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="191dp"
+            android:layout_marginEnd="0dp"
+            android:layout_marginRight="0dp" />
+
+        <Spinner
+            android:id="@+id/spinDirection"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="220dp"
+            android:layout_marginBottom="0dp" />
+
+        <Spinner
+            android:id="@+id/spinStop"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginStart="0dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="250dp"
+            android:layout_marginEnd="0dp"
+            android:layout_marginRight="0dp" />
+
     </RelativeLayout>
 
     <android.support.design.widget.BottomNavigationView

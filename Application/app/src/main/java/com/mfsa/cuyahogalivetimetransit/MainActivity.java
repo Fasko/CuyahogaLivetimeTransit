@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         TextView title = (TextView) findViewById(R.id.homeTitle1);
         title.setText("Favorites");
 
-       populateRoutes();
+       //populateRoutes();
 
         BottomNavigationView navigation = findViewById(R.id.navigation);
         navigation.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
