@@ -1,5 +1,6 @@
 package com.mfsa.cuyahogalivetimetransit;
 
+import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -63,18 +64,17 @@ public class Routes extends AppCompatActivity {
     }
 
     protected void populateRoutes(){
-        //TODO: only open database when making requests, except for Routes open DB
         DatabaseAccess databaseAccess = DatabaseAccess.getInstance(getApplicationContext());
         databaseAccess.open();
 
 
-        //TODO: put spinner stuff in seperate class, or in a listener
         ArrayList<String> allRoutes  = databaseAccess.getRoutes();
         ArrayAdapter<String> spinnerArrayAdapterRoute = new ArrayAdapter<>(
                 this, android.R.layout.simple_spinner_item, allRoutes);
         spinnerArrayAdapterRoute.setDropDownViewResource( android.R.layout.simple_spinner_dropdown_item );
 
         final Spinner spinRoutes = findViewById(R.id.spinRoute);
+        spinnerArrayAdapterRoute.insert("Select a Route:",0);
         spinRoutes.setAdapter(spinnerArrayAdapterRoute);
 
         spinRoutes.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
@@ -102,6 +102,7 @@ public class Routes extends AppCompatActivity {
         spinnerArrayAdapterDirection.setDropDownViewResource( android.R.layout.simple_spinner_dropdown_item );
 
         Spinner spinDirections = findViewById(R.id.spinDirection);
+        spinnerArrayAdapterDirection.insert("Select a Direction:",0);
         spinDirections.setAdapter(spinnerArrayAdapterDirection);
 
         spinDirections.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
@@ -130,12 +131,16 @@ public class Routes extends AppCompatActivity {
                 this, android.R.layout.simple_spinner_item, allStops);
         spinnerArrayAdapterStop.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
 
-        Spinner spinStops = findViewById(R.id.spinStop);
+        final Spinner spinStops = findViewById(R.id.spinStop);
+        spinnerArrayAdapterStop.insert("Select a Stop:",0);
         spinStops.setAdapter(spinnerArrayAdapterStop);
 
         spinStops.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             @Override
             public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+                if (spinStops.getSelectedItem().equals("Select a Stop:")) {
+                    return;
+                }
                 String stopURL = databaseAccess.getURL(route,direction,parent.getSelectedItem().toString());
                 Routes.MyAsyncTask async = new Routes.MyAsyncTask();
                 async.execute(stopURL);
@@ -163,6 +168,7 @@ public class Routes extends AppCompatActivity {
             return document;
         }
 
+        @SuppressLint("SetTextI18n")
         @Override
         protected void onPostExecute(Document document) {
             Elements nextVehicles = document.select(".ada");
@@ -180,14 +186,21 @@ public class Routes extends AppCompatActivity {
                 stopLabel.add(scheduleTimesToText);
 
             }
+            //TODO: Make the UI look better, maybe use more than one TextView to change font size etc...
             if (adaClass.get(0).equals("No further buses scheduled for this stop<br>")){
                 adaClass.set(0, "No further buses scheduled for this stop.");
                 displayInfo.setText(adaClass.get(0));
 
             } else{
-                displayInfo.setText(adaClass.get(0) +"\n" +adatimeClass.get(0) +"    "+stopLabel.get(0) +"\n" +adatimeClass.get(1) +"    "+stopLabel.get(1) +"\n" +adatimeClass.get(2) +"    "+stopLabel.get(2) +"\n" +adaClass.get(1));
+                String string0 = adaClass.get(0) + "\n";
+                String string1 = adaClass.get(1) + "\n";
+                String stops = "";
+                for (int i = 0; i < adatimeClass.size();i++){
+                    stops = stops + "\n" +  adatimeClass.get(i) + " " + stopLabel.get(i);
+                }
+                displayInfo.setText(string0 + stops + "\n\n" + string1);
             }
-            //TODO: add UI to display each of those lists.
+
             System.out.println(adaClass);
             System.out.println(adatimeClass);
             System.out.println(stopLabel);
