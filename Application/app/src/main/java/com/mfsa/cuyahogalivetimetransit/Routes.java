@@ -131,10 +131,13 @@ public class Routes extends AppCompatActivity {
                 this, android.R.layout.simple_spinner_item, allStops);
         spinnerArrayAdapterStop.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
 
+        // Set the Spinner and TextView to default options
         final Spinner spinStops = findViewById(R.id.spinStop);
         spinnerArrayAdapterStop.insert("Select a Stop:",0);
-        spinStops.setAdapter(spinnerArrayAdapterStop);
+        TextView tv = findViewById(R.id.displayInfo);
+        tv.setText("");
 
+        spinStops.setAdapter(spinnerArrayAdapterStop);
         spinStops.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             @Override
             public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
@@ -200,11 +203,9 @@ public class Routes extends AppCompatActivity {
                 }
                 displayInfo.setText(string0 + stops + "\n\n" + string1);
             }
-
             System.out.println(adaClass);
             System.out.println(adatimeClass);
             System.out.println(stopLabel);
-
         }
     }
 }
