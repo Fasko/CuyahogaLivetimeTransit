@@ -15,6 +15,8 @@ import android.widget.ArrayAdapter;
 import android.widget.Spinner;
 import android.widget.TextView;
 
+import com.google.android.gms.maps.MapView;
+
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -31,7 +33,8 @@ public class Routes extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_routes);
 
-
+        //final MapView mapView = (MapView)findViewById(R.id.mapview);
+        //mapView.getMapAsync();
         BottomNavigationView navigation = (BottomNavigationView) findViewById(R.id.navigation);
 
         navigation.setSelectedItemId(R.id.navigation_schedules);
@@ -43,9 +46,7 @@ public class Routes extends AppCompatActivity {
                     case R.id.navigation_favorites:
                         Intent a = new Intent(Routes.this,MainActivity.class);
                         startActivity(a);
-
                         finish();
-
                         break;
                     case R.id.navigation_schedules:
                         break;
