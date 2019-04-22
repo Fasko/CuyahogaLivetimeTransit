@@ -6,7 +6,7 @@ import com.readystatesoftware.sqliteasset.SQLiteAssetHelper;
 
 public class DatabaseOpenHelper extends SQLiteAssetHelper {
     private static final String DATABASE_NAME = "RDS.db";
-    private static final int DATABASE_VERSION =1;
+    private static final int DATABASE_VERSION =2;
 
     //constructor
     public DatabaseOpenHelper(Context context){
