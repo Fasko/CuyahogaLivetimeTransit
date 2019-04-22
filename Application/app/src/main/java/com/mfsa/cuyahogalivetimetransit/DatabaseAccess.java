@@ -77,4 +77,12 @@ public class DatabaseAccess {
 
         return (c.getString(0));
     }
+   /* public String getLatLong(String stop){
+        c = db.rawQuery("Select stop_lat from RDS_table where Route = ? and Direction = ? and Stop = ?;", new String[]{route, direction, stop});
+        c.moveToNext();
+
+        return (c.getString(0));
+    }*/
+
+
 }
