@@ -77,12 +77,11 @@ public class DatabaseAccess {
 
         return (c.getString(0));
     }
-   /* public String getLatLong(String stop){
-        c = db.rawQuery("Select stop_lat from RDS_table where Route = ? and Direction = ? and Stop = ?;", new String[]{route, direction, stop});
+
+    public float[] getLatLong(String stop) {
+        c = db.rawQuery("Select stop_lat, stop_lon  from RDS_location where stop_name = ?;", new String[]{stop});
         c.moveToNext();
-
-        return (c.getString(0));
-    }*/
-
-
+        float[] latLong = {Float.parseFloat(c.getString(0)), Float.parseFloat(c.getString(1))};
+        return latLong;
+    }
 }

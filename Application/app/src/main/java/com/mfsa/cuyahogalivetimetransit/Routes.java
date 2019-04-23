@@ -15,7 +15,12 @@ import android.widget.ArrayAdapter;
 import android.widget.Spinner;
 import android.widget.TextView;
 
-import com.google.android.gms.maps.MapView;
+import com.google.android.gms.maps.CameraUpdateFactory;
+import com.google.android.gms.maps.GoogleMap;
+import com.google.android.gms.maps.OnMapReadyCallback;
+import com.google.android.gms.maps.SupportMapFragment;
+import com.google.android.gms.maps.model.LatLng;
+import com.google.android.gms.maps.model.MarkerOptions;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -26,15 +31,18 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Routes extends AppCompatActivity {
+public class Routes extends AppCompatActivity implements OnMapReadyCallback {
+    private GoogleMap mMap;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_routes);
 
-        //final MapView mapView = (MapView)findViewById(R.id.mapview);
-        //mapView.getMapAsync();
+        SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
+                .findFragmentById(R.id.map);
+        mapFragment.getMapAsync(this);
+
         BottomNavigationView navigation = (BottomNavigationView) findViewById(R.id.navigation);
 
         navigation.setSelectedItemId(R.id.navigation_schedules);
@@ -145,12 +153,21 @@ public class Routes extends AppCompatActivity {
                 if (spinStops.getSelectedItem().equals("Select a Stop:")) {
                     return;
                 }
+
                 String stopURL = databaseAccess.getURL(route,direction,parent.getSelectedItem().toString());
                 Routes.MyAsyncTask async = new Routes.MyAsyncTask();
+
+
+                // Set the Google Maps location to the bus stop the user requested
+                float[] userLatLong = databaseAccess.getLatLong(spinStops.getSelectedItem().toString());
+                float zoomLevel = (float) 20.0;
+                LatLng userBusSelection = new LatLng(userLatLong[0], userLatLong[1]);
+                mMap.addMarker(new MarkerOptions().position(userBusSelection).title(spinStops.getSelectedItem().toString()));
+                mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(userBusSelection, zoomLevel));
+
                 async.execute(stopURL);
                 System.out.println(stopURL);
             }
-
             @Override
             public void onNothingSelected(AdapterView<?> parent) {
                 //Another interface callback
@@ -158,8 +175,17 @@ public class Routes extends AppCompatActivity {
         });
     }
 
-    public class MyAsyncTask extends AsyncTask<String, Void, Document> {
+    @Override
+    public void onMapReady(GoogleMap googleMap) {
+        mMap = googleMap;
+        float zoomLevel = (float) 12.0;
+        LatLng publicSquareCleveland = new LatLng(41.4996614, -81.6936739);
+        //mMap.addMarker(new MarkerOptions().position(publicSquareCleveland).title("Marker in Cleveland"));
+        mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(publicSquareCleveland, zoomLevel));
 
+    }
+
+    public class MyAsyncTask extends AsyncTask<String, Void, Document> {
         // Fetch the HTML source from the website
         @Override
         protected Document doInBackground(String... strings) {
@@ -204,9 +230,12 @@ public class Routes extends AppCompatActivity {
                 }
                 displayInfo.setText(string0 + stops + "\n\n" + string1);
             }
+
+
             System.out.println(adaClass);
             System.out.println(adatimeClass);
             System.out.println(stopLabel);
+
         }
     }
 }
