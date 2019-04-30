@@ -245,7 +245,7 @@ public class Routes extends AppCompatActivity implements OnMapReadyCallback {
                 String string1 = adaClass.get(1) + "\n";
                 String stops = "";
                 for (int i = 0; i < adatimeClass.size();i++){
-                    stops = stops + "\n" + "Arrives at " + adatimeClass.get(i) + ", " + stopLabel.get(i);
+                    stops = stops + "\n" + "Will arrive at " + adatimeClass.get(i) + ", " + stopLabel.get(i).toLowerCase();
                 }
                 displayInfo.setText(string0 + stops + "\n\n" + string1);
             }
