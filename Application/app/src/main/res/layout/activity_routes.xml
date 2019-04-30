@@ -47,7 +47,8 @@
             android:layout_height="wrap_content"
             android:layout_below="@+id/spinStop"
             android:layout_marginTop="10dp"
-            android:onClick="refreshTimes" />
+            android:onClick="refreshTimes"
+            android:paddingLeft="10dp" />
 
 
         <fragment xmlns:android="http://schemas.android.com/apk/res/android"
