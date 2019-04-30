@@ -33,6 +33,7 @@ import java.util.List;
 
 public class Routes extends AppCompatActivity implements OnMapReadyCallback {
     private GoogleMap mMap;
+    String stopURL; //used to pass easier to refresh times
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
@@ -143,7 +144,9 @@ public class Routes extends AppCompatActivity implements OnMapReadyCallback {
         // Set the Spinner and TextView to default options
         final Spinner spinStops = findViewById(R.id.spinStop);
         spinnerArrayAdapterStop.insert("Select a Stop:",0);
+
         TextView tv = findViewById(R.id.displayInfo);
+
         tv.setText("");
 
         spinStops.setAdapter(spinnerArrayAdapterStop);
@@ -154,7 +157,7 @@ public class Routes extends AppCompatActivity implements OnMapReadyCallback {
                     return;
                 }
 
-                String stopURL = databaseAccess.getURL(route,direction,parent.getSelectedItem().toString());
+                stopURL = databaseAccess.getURL(route, direction, parent.getSelectedItem().toString());
                 Routes.MyAsyncTask async = new Routes.MyAsyncTask();
 
 
@@ -183,6 +186,12 @@ public class Routes extends AppCompatActivity implements OnMapReadyCallback {
         //mMap.addMarker(new MarkerOptions().position(publicSquareCleveland).title("Marker in Cleveland"));
         mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(publicSquareCleveland, zoomLevel));
 
+    }
+
+    //If user clicks on TextView, fetch the latest times and display.
+    public void refreshTimes(View view) {
+        Routes.MyAsyncTask async = new Routes.MyAsyncTask();
+        async.execute(stopURL);
     }
 
     public class MyAsyncTask extends AsyncTask<String, Void, Document> {
@@ -235,7 +244,6 @@ public class Routes extends AppCompatActivity implements OnMapReadyCallback {
             System.out.println(adaClass);
             System.out.println(adatimeClass);
             System.out.println(stopLabel);
-
         }
     }
 }
