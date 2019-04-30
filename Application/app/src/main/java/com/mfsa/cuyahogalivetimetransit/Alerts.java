@@ -15,7 +15,7 @@ public class Alerts extends AppCompatActivity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_two);
+        setContentView(R.layout.activity_alerts);
 
         TextView title = (TextView) findViewById(R.id.activityTitle2);
         title.setText("Alerts");
