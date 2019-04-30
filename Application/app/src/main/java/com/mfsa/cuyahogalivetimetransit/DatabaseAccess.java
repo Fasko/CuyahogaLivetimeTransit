@@ -80,8 +80,15 @@ public class DatabaseAccess {
 
     public float[] getLatLong(String stop) {
         c = db.rawQuery("Select stop_lat, stop_lon  from RDS_location where stop_name = ?;", new String[]{stop});
-        c.moveToNext();
-        float[] latLong = {Float.parseFloat(c.getString(0)), Float.parseFloat(c.getString(1))};
+        float[] latLong = {0, 0};
+        int numResults = c.getCount();
+
+        if (numResults > 0) {
+            c.moveToNext();
+            latLong[0] = Float.parseFloat(c.getString(0));
+            latLong[1] = Float.parseFloat(c.getString(1));
+        }
+
         return latLong;
     }
 }

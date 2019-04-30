@@ -14,6 +14,7 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Spinner;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
@@ -77,7 +78,6 @@ public class Routes extends AppCompatActivity implements OnMapReadyCallback {
         DatabaseAccess databaseAccess = DatabaseAccess.getInstance(getApplicationContext());
         databaseAccess.open();
 
-
         ArrayList<String> allRoutes  = databaseAccess.getRoutes();
         ArrayAdapter<String> spinnerArrayAdapterRoute = new ArrayAdapter<>(
                 this, android.R.layout.simple_spinner_item, allRoutes);
@@ -101,8 +101,6 @@ public class Routes extends AppCompatActivity implements OnMapReadyCallback {
     }
 
     protected void populateDirections(final String route){
-
-
         final DatabaseAccess databaseAccess = DatabaseAccess.getInstance(getApplicationContext());
         databaseAccess.open();
 
@@ -157,16 +155,28 @@ public class Routes extends AppCompatActivity implements OnMapReadyCallback {
                     return;
                 }
 
+                mMap.clear(); //removes previous markers from the map
+
                 stopURL = databaseAccess.getURL(route, direction, parent.getSelectedItem().toString());
                 Routes.MyAsyncTask async = new Routes.MyAsyncTask();
 
 
                 // Set the Google Maps location to the bus stop the user requested
                 float[] userLatLong = databaseAccess.getLatLong(spinStops.getSelectedItem().toString());
-                float zoomLevel = (float) 20.0;
-                LatLng userBusSelection = new LatLng(userLatLong[0], userLatLong[1]);
-                mMap.addMarker(new MarkerOptions().position(userBusSelection).title(spinStops.getSelectedItem().toString()));
-                mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(userBusSelection, zoomLevel));
+
+                /* The data from RTA doesn't match the other database we created with stop names.
+                   If the database can't return the latitude and longitude of a stop, set the map to
+                   The middle of public square, and pan the camera out */
+                if (userLatLong[0] != 0) {
+                    LatLng userBusSelection = new LatLng(userLatLong[0], userLatLong[1]);
+                    mMap.addMarker(new MarkerOptions().position(userBusSelection).title(spinStops.getSelectedItem().toString()));
+                    mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(userBusSelection, 20.0f));
+                } else {
+                    LatLng defaultSelection = new LatLng(41.4996614, -81.6936739);
+                    mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(defaultSelection, 10.0f));
+                    Toast.makeText(getApplicationContext(), "Couldn't Locate Stop", Toast.LENGTH_LONG).show();
+                }
+
 
                 async.execute(stopURL);
                 System.out.println(stopURL);
@@ -185,9 +195,9 @@ public class Routes extends AppCompatActivity implements OnMapReadyCallback {
         LatLng publicSquareCleveland = new LatLng(41.4996614, -81.6936739);
         //mMap.addMarker(new MarkerOptions().position(publicSquareCleveland).title("Marker in Cleveland"));
         mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(publicSquareCleveland, zoomLevel));
-
     }
 
+    //TODO replace with a button, or way to inform user of this feature
     //If user clicks on TextView, fetch the latest times and display.
     public void refreshTimes(View view) {
         Routes.MyAsyncTask async = new Routes.MyAsyncTask();
@@ -239,8 +249,6 @@ public class Routes extends AppCompatActivity implements OnMapReadyCallback {
                 }
                 displayInfo.setText(string0 + stops + "\n\n" + string1);
             }
-
-
             System.out.println(adaClass);
             System.out.println(adatimeClass);
             System.out.println(stopLabel);
