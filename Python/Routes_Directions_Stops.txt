@@ -164,6 +164,148 @@
 1 - St. Clair,West,ST. CLAIR AV & WHITCOMB RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=33&d=14&s=10259
 1 - St. Clair,West,ST. CLAIR AV & YALE AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=33&d=14&s=10260
 1 - St. Clair,West,W.3 & Superior,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=33&d=14&s=17401
+2 - E. 55-E. 79,North,1225 E 79TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=11181
+2 - E. 55-E. 79,North,1550 HARVARD AV (ALCOA PLANT),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=13034
+2 - E. 55-E. 79,North,1701 HARVARD AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=13035
+2 - E. 55-E. 79,North,2221 E 79TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=11179
+2 - E. 55-E. 79,North,3283 E 79TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=11155
+2 - E. 55-E. 79,North,6900 BESSEMER AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=11149
+2 - E. 55-E. 79,North,6900 GARDEN VALLEY AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=10733
+2 - E. 55-E. 79,North,7055 GARDEN VALLEY AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=10739
+2 - E. 55-E. 79,North,7105 BESSEMER AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=11150
+2 - E. 55-E. 79,North,7217 GARDEN VALLEY AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=10741
+2 - E. 55-E. 79,North,7300 CARSON AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=16833
+2 - E. 55-E. 79,North,7416 BESSEMER AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=11151
+2 - E. 55-E. 79,North,7451 GARDEN VALLEY AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=10744
+2 - E. 55-E. 79,North,7550 BESSEMER AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=11152
+2 - E. 55-E. 79,North,7851 GARDEN VALLEY AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=10748
+2 - E. 55-E. 79,North,BESSEMER AV & E 65TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=10752
+2 - E. 55-E. 79,North,BROADWAY & AETNA RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=12043
+2 - E. 55-E. 79,North,BROADWAY & FORMAN AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=12069
+2 - E. 55-E. 79,North,E 65TH ST & HILLMAN AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=10930
+2 - E. 55-E. 79,North,E 65TH ST & MORGAN AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=10928
+2 - E. 55-E. 79,North,E 65TH ST & UNION AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=17227
+2 - E. 55-E. 79,North,E 71ST ST & CHAMBERS AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=16863
+2 - E. 55-E. 79,North,E 71ST ST & FLEET AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=16862
+2 - E. 55-E. 79,North,E 71ST ST & GERTRUDE AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=16861
+2 - E. 55-E. 79,North,E 71ST ST & LANSING AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=16860
+2 - E. 55-E. 79,North,E 71ST ST & OTTAWA RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=16786
+2 - E. 55-E. 79,North,E 73RD ST & KINSMAN RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=16836
+2 - E. 55-E. 79,North,E 73RD ST & PORT AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=16835
+2 - E. 55-E. 79,North,E 79TH ST & AVRINA AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=10933
+2 - E. 55-E. 79,North,E 79TH ST & BESSEMER AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=11154
+2 - E. 55-E. 79,North,E 79TH ST & CARNEGIE AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=10936
+2 - E. 55-E. 79,North,E 79TH ST & CEDAR AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=10938
+2 - E. 55-E. 79,North,E 79TH ST & CENTRAL AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=10940
+2 - E. 55-E. 79,North,E 79TH ST & CHESTER AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=10942
+2 - E. 55-E. 79,North,E 79TH ST & CORY AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=10944
+2 - E. 55-E. 79,North,E 79TH ST & CRUMB AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=10946
+2 - E. 55-E. 79,North,E 79TH ST & DECKER AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=10947
+2 - E. 55-E. 79,North,E 79TH ST & GRAND AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=11176
+2 - E. 55-E. 79,North,E 79TH ST & HILLSIDE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=11174
+2 - E. 55-E. 79,North,E 79TH ST & HOLTON AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=11175
+2 - E. 55-E. 79,North,E 79TH ST & HOUGH AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=10955
+2 - E. 55-E. 79,North,E 79TH ST & LINWOOD AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=10962
+2 - E. 55-E. 79,North,E 79TH ST & PLATT AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=10963
+2 - E. 55-E. 79,North,E 79TH ST & PULASKI AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=10964
+2 - E. 55-E. 79,North,E 79TH ST & QUINCY AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=10965
+2 - E. 55-E. 79,North,E 79TH ST & SUPERIOR AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=10967
+2 - E. 55-E. 79,North,E 79TH ST & WADE PARK AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=10970
+2 - E. 55-E. 79,North,E 79TH ST & WOODLAND AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=11177
+2 - E. 55-E. 79,North,E 79TH ST BLUE-GREEN LINE STATION,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=10972
+2 - E. 55-E. 79,North,E 79TH ST RED LINE STATION,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=10973
+2 - E. 55-E. 79,North,E.65 & Broadway,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=12059
+2 - E. 55-E. 79,North,Euclid & E.79,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=10949
+2 - E. 55-E. 79,North,Harvard & E 71,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=16859
+2 - E. 55-E. 79,North,Harvard & Jennings,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=17075
+2 - E. 55-E. 79,North,HARVARD AV & E 42ND ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=13037
+2 - E. 55-E. 79,North,HARVARD AV & E 49TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=15208
+2 - E. 55-E. 79,North,HARVARD AV & E 53RD ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=11609
+2 - E. 55-E. 79,North,HARVARD AV & E 55TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=11616
+2 - E. 55-E. 79,North,HARVARD AV & E 57TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=13041
+2 - E. 55-E. 79,North,HARVARD AV & E 64TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=11657
+2 - E. 55-E. 79,North,HARVARD AV & E 67TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=13045
+2 - E. 55-E. 79,North,HARVARD AV & WASHINGTON PARK BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=13069
+2 - E. 55-E. 79,North,JENNINGS RD & OLD DENISON AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=17073
+2 - E. 55-E. 79,North,Kinsman & E.79,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=16837
+2 - E. 55-E. 79,North,KINSMAN RD & E 75TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=13169
+2 - E. 55-E. 79,North,KINSMAN RD & E 78TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=13171
+2 - E. 55-E. 79,North,Maud Loop,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=9885
+2 - E. 55-E. 79,North,QUIGLEY RD & W 14TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=17072
+2 - E. 55-E. 79,North,Steelyard Commons Layover,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=17068
+2 - E. 55-E. 79,North,STEELYARD COMMONS STOP #1 (STEAK & SHAKE,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=16434
+2 - E. 55-E. 79,North,STEELYARD COMMONS STOP #2 (WALMART),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=16435
+2 - E. 55-E. 79,North,STEELYARD COMMONS STOP #3,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=16436
+2 - E. 55-E. 79,North,STEELYARD COMMONS STOP #4 (ALDI),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=5&s=16906
+2 - E. 55-E. 79,South,2501 HARVARD AV (HARVARD GARAGE),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=15096
+2 - E. 55-E. 79,South,3201 HARVARD AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=11503
+2 - E. 55-E. 79,South,6900 GARDEN VALLEY AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=10734
+2 - E. 55-E. 79,South,6905 HARVARD AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=11676
+2 - E. 55-E. 79,South,6917 BESSEMER AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=11148
+2 - E. 55-E. 79,South,7055 GARDEN VALLEY AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=10740
+2 - E. 55-E. 79,South,7105 BESSEMER AV (PRESRITE CORP),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=11147
+2 - E. 55-E. 79,South,7395 BESSEMER AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=11146
+2 - E. 55-E. 79,South,7631 GARDEN VALLEY AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=10747
+2 - E. 55-E. 79,South,BESSEMER AV & E 65TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=10753
+2 - E. 55-E. 79,South,BROADWAY & AETNA RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=12042
+2 - E. 55-E. 79,South,BROADWAY & BAXTER AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=16427
+2 - E. 55-E. 79,South,BROADWAY & FORMAN AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=12067
+2 - E. 55-E. 79,South,BROADWAY & UNION AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=12101
+2 - E. 55-E. 79,South,E 65TH ST & ADOLPHA AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=10929
+2 - E. 55-E. 79,South,E 65TH ST & HILLMAN AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=10931
+2 - E. 55-E. 79,South,E 65TH ST & UNION AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=11156
+2 - E. 55-E. 79,South,E 71ST ST & CHAMBERS AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=16869
+2 - E. 55-E. 79,South,E 71ST ST & FLEET AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=16870
+2 - E. 55-E. 79,South,E 71ST ST & FULLERTON AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=16871
+2 - E. 55-E. 79,South,E 71ST ST & LANSING AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=16872
+2 - E. 55-E. 79,South,E 71ST ST & OTTAWA RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=16547
+2 - E. 55-E. 79,South,E 73RD & CARSON AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=16832
+2 - E. 55-E. 79,South,E 73RD ST & PORT AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=16830
+2 - E. 55-E. 79,South,E 79TH ST & ABERDEEN AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=10932
+2 - E. 55-E. 79,South,E 79TH ST & AVRINA AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=10934
+2 - E. 55-E. 79,South,E 79TH ST & BESSEMER AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=11143
+2 - E. 55-E. 79,South,E 79TH ST & CARNEGIE AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=10937
+2 - E. 55-E. 79,South,E 79TH ST & CEDAR AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=10939
+2 - E. 55-E. 79,South,E 79TH ST & CENTRAL AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=10941
+2 - E. 55-E. 79,South,E 79TH ST & CHESTER AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=10943
+2 - E. 55-E. 79,South,E 79TH ST & CORY AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=10945
+2 - E. 55-E. 79,South,E 79TH ST & DECKER AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=10948
+2 - E. 55-E. 79,South,E 79TH ST & GRAND AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=10953
+2 - E. 55-E. 79,South,E 79TH ST & HILLSIDE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=11172
+2 - E. 55-E. 79,South,E 79TH ST & HOLTON AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=10954
+2 - E. 55-E. 79,South,E 79TH ST & HOUGH AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=10956
+2 - E. 55-E. 79,South,E 79TH ST & LEXINGTON AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=10961
+2 - E. 55-E. 79,South,E 79TH ST & MADISON CT,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=11169
+2 - E. 55-E. 79,South,E 79TH ST & QUINCY AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=10966
+2 - E. 55-E. 79,South,E 79TH ST & SIMON AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=11166
+2 - E. 55-E. 79,South,E 79TH ST & SOWINSKI AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=17128
+2 - E. 55-E. 79,South,E 79TH ST & SUPERIOR AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=10968
+2 - E. 55-E. 79,South,E 79TH ST & TOWNSEND AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=864
+2 - E. 55-E. 79,South,E 79TH ST & WADE PARK AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=10971
+2 - E. 55-E. 79,South,E 79TH ST & WOODLAND AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=10974
+2 - E. 55-E. 79,South,E 79TH ST BLUE-GREEN LINE STATION,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=10719
+2 - E. 55-E. 79,South,E 79TH ST RED LINE STATION,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=10975
+2 - E. 55-E. 79,South,E.65 & Broadway,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=12058
+2 - E. 55-E. 79,South,Euclid & E.79,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=10950
+2 - E. 55-E. 79,South,Harvard & E 71,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=16766
+2 - E. 55-E. 79,South,Harvard & Jennings,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=17490
+2 - E. 55-E. 79,South,HARVARD AV & DENISON AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=17077
+2 - E. 55-E. 79,South,HARVARD AV & E 27TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=13036
+2 - E. 55-E. 79,South,HARVARD AV & E 42ND ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=13038
+2 - E. 55-E. 79,South,HARVARD AV & E 49TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=13070
+2 - E. 55-E. 79,South,HARVARD AV & E 52ND ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=13039
+2 - E. 55-E. 79,South,HARVARD AV & E 54TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=13040
+2 - E. 55-E. 79,South,HARVARD AV & E 58TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=13042
+2 - E. 55-E. 79,South,HARVARD AV & E 64TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=13043
+2 - E. 55-E. 79,South,HARVARD AV & E 67TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=13044
+2 - E. 55-E. 79,South,JENNINGS RD & OLD DENISON AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=17074
+2 - E. 55-E. 79,South,Kinsman & E.79,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=11173
+2 - E. 55-E. 79,South,KINSMAN RD & E 75TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=13170
+2 - E. 55-E. 79,South,Maud Loop,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=9885
+2 - E. 55-E. 79,South,Steelyard Commons Layover,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=17068
+2 - E. 55-E. 79,South,STEELYARD COMMONS STOP #7 (HOME DEPOT),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=17069
+2 - E. 55-E. 79,South,STEELYARD COMMONS STOP #8 (IHOP),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=17070
+2 - E. 55-E. 79,South,STEELYARD COMMONS STOP #9 (TARGET),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=146&d=7&s=17071
 3 - Superior,East,EUCLID AV & BELMORE AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=116&d=3&s=16638
 3 - Superior,East,EUCLID AV & SUPERIOR AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=116&d=3&s=16634
 3 - Superior,East,EUCLID AV & WELLESLEY AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=116&d=3&s=16636
@@ -1935,6 +2077,181 @@
 22 - Lorain Ave.,West,WEST PARK STATION RDWY & POST OFFICE,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=139&d=14&s=988
 22 - Lorain Ave.,West,WEST PARK STATION RDWY & POST OFFICE,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=139&d=14&s=14897
 22 - Lorain Ave.,West,WEST PARK STATION STOP #3,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=139&d=14&s=17253
+25 - Madison,East,865 BASSETT RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=17622
+25 - Madison,East,910 CROCKER RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=16827
+25 - Madison,East,2055 CROCKER RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=17243
+25 - Madison,East,2772 WOOSTER RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=10630
+25 - Madison,East,2800 WAGAR RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=15406
+25 - Madison,East,18851 HILLIARD BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=14981
+25 - Madison,East,19025 HILLIARD BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=14982
+25 - Madison,East,23971 DETROIT RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=472
+25 - Madison,East,24665 DETROIT RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=470
+25 - Madison,East,25057 DETROIT RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=469
+25 - Madison,East,25759 DETROIT RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=11445
+25 - Madison,East,26101 DETROIT RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=467
+25 - Madison,East,27366 DETROIT RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=11461
+25 - Madison,East,27569 DETROIT RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=465
+25 - Madison,East,27701 DETROIT RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=464
+25 - Madison,East,27909 DETROIT RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=463
+25 - Madison,East,28045 CLEMENS RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=17619
+25 - Madison,East,28105 CLEMENS RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=17618
+25 - Madison,East,28303 DETROIT RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=11476
+25 - Madison,East,28468 RANNEY PKWY,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=17621
+25 - Madison,East,29251 CLEMENS RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=17617
+25 - Madison,East,29505 DETROIT RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=462
+25 - Madison,East,29595 CLEMENS RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=17616
+25 - Madison,East,BEREA RD & MADISON AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=17610
+25 - Madison,East,CENTER RIDGE RD & FORESTVIEW AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=9091
+25 - Madison,East,CENTER RIDGE RD & GOLDENGATE AVE,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=17356
+25 - Madison,East,CENTER RIDGE RD & LAKEVIEW AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=9093
+25 - Madison,East,CENTER RIDGE RD & LINDEN RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=17367
+25 - Madison,East,CENTER RIDGE RD & W 210TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=9096
+25 - Madison,East,CROCKER & GEMINI DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=17644
+25 - Madison,East,Crocker Park (Amer. Blvd.),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=17641
+25 - Madison,East,CROCKER RD & CLEMENS RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=12483
+25 - Madison,East,CROCKER RD & CORPORATE PARK,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=17643
+25 - Madison,East,Detroit & Clague,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=12528
+25 - Madison,East,DETROIT RD & BASSETT RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=12519
+25 - Madison,East,DETROIT RD & BATES RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=12521
+25 - Madison,East,DETROIT RD & BRICK MILL RUN RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=11422
+25 - Madison,East,DETROIT RD & CANTERBURY RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=12524
+25 - Madison,East,DETROIT RD & COLUMBIA RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=468
+25 - Madison,East,DETROIT RD & CROCKER RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=461
+25 - Madison,East,DETROIT RD & DOVER CENTER RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=12531
+25 - Madison,East,DETROIT RD & ELMWOOD RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=14992
+25 - Madison,East,DETROIT RD & FRESNO DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=473
+25 - Madison,East,DETROIT RD & I-90 OFF RAMP,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=477
+25 - Madison,East,DETROIT RD & MARVIEW DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=11453
+25 - Madison,East,DETROIT RD & MEDFIELD DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=12542
+25 - Madison,East,DETROIT RD & ORCHARD PARK DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=12545
+25 - Madison,East,DETROIT RD & QUEEN ANNE'S GATE,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=471
+25 - Madison,East,DETROIT RD & SETTLERS RESERVE WAY,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=11480
+25 - Madison,East,DETROIT RD & WAGAR RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=478
+25 - Madison,East,HILLIARD BLVD & VALLEY VIEW DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=13092
+25 - Madison,East,HILLIARD BLVD & WOOSTER RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=11375
+25 - Madison,East,Madison & Warren,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=13546
+25 - Madison,East,MADISON AV & ATKINS AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=13481
+25 - Madison,East,MADISON AV & BELLE AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=13482
+25 - Madison,East,MADISON AV & BROWN RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=13486
+25 - Madison,East,MADISON AV & BUNTS RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=13487
+25 - Madison,East,MADISON AV & CHESTERLAND AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=13490
+25 - Madison,East,MADISON AV & CLARENCE AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=13492
+25 - Madison,East,MADISON AV & ELBUR AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=13495
+25 - Madison,East,MADISON AV & HALSTEAD AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=13498
+25 - Madison,East,MADISON AV & HILLIARD RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=13489
+25 - Madison,East,MADISON AV & LAKELAND AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=13501
+25 - Madison,East,MADISON AV & LARK ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=13504
+25 - Madison,East,MADISON AV & LINCOLN AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=13505
+25 - Madison,East,MADISON AV & MARS AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=13507
+25 - Madison,East,MADISON AV & NEWMAN AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=13509
+25 - Madison,East,MADISON AV & NORTHLAND AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=13511
+25 - Madison,East,MADISON AV & SPRING GARDEN AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=13517
+25 - Madison,East,MADISON AV & W 117TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=13526
+25 - Madison,East,MADISON AV & WAGAR AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=13544
+25 - Madison,East,Ranney & Clemens,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=17620
+25 - Madison,East,RIVERSIDE DR & INDIANOLA DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=14036
+25 - Madison,East,RIVERSIDE DR & MADISON AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=11386
+25 - Madison,East,W 102ND & BEREA ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=17612
+25 - Madison,East,W 104TH & BEREA ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=17611
+25 - Madison,East,W.117-Madison Station (Bus),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=16980
+25 - Madison,East,WAGAR RD & CAMELOT LN,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=395
+25 - Madison,East,WAGAR RD & CENTER RIDGE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=450
+25 - Madison,East,WAGAR RD & DETROIT RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=14991
+25 - Madison,East,WAGAR RD & HILLIARD BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=14632
+25 - Madison,East,WAGAR RD & WESTWAY DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=14636
+25 - Madison,East,WEST BLVD-CUDELL STATION STOP #1,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=9213
+25 - Madison,East,West Blvd-Cudell Stn (Bus),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=17738
+25 - Madison,East,Westgate Transit Center,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=10694
+25 - Madison,East,WOOSTER RD & MORLEY AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=10595
+25 - Madison,East,WOOSTER RD & ROCKCLIFF DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=3&s=10555
+25 - Madison,West,865 BASSETT RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=17622
+25 - Madison,West,910 CROCKER RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=16827
+25 - Madison,West,1460 WAGAR RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=400
+25 - Madison,West,1800 CROCKER RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=17637
+25 - Madison,West,1947 WAGAR RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=398
+25 - Madison,West,2199 RIVERSIDE DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=11408
+25 - Madison,West,2772 WOOSTER RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=10695
+25 - Madison,West,2829 WAGAR RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=15404
+25 - Madison,West,18885 HILLIARD BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=57
+25 - Madison,West,24018 DETROIT RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=11428
+25 - Madison,West,24600 DETROIT RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=11434
+25 - Madison,West,25100 DETROIT RD (PAT O'BRIEN CHEVROLET),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=12530
+25 - Madison,West,25850 DETROIT RD (WINFIELD COMMONS APTS),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=11447
+25 - Madison,West,27366 DETROIT RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=11462
+25 - Madison,West,27540 DETROIT RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=11467
+25 - Madison,West,27850 DETROIT RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=12523
+25 - Madison,West,28045 CLEMENS RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=17619
+25 - Madison,West,28105 CLEMENS RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=17618
+25 - Madison,West,28239 DETROIT RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=11475
+25 - Madison,West,28468 RANNEY PKWY,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=17621
+25 - Madison,West,29251 CLEMENS RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=17617
+25 - Madison,West,29550 DETROIT RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=459
+25 - Madison,West,29595 CLEMENS RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=17616
+25 - Madison,West,BEREA RD & MADISON AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=17615
+25 - Madison,West,CENTER RIDGE RD & FORESTVIEW AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=17372
+25 - Madison,West,CENTER RIDGE RD & LAKEVIEW AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=9089
+25 - Madison,West,CENTER RIDGE RD & LINDEN RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=17371
+25 - Madison,West,CENTER RIDGE RD & WAGAR RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=10697
+25 - Madison,West,CENTER RIDGE RD & WOOSTER PARK DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=8871
+25 - Madison,West,Crocker Park (Amer. Blvd.),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=17641
+25 - Madison,West,CROCKER RD & CLEMENS RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=12483
+25 - Madison,West,Detroit & Clague,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=12529
+25 - Madison,West,DETROIT AV & WEYMOUTH CIR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=12552
+25 - Madison,West,DETROIT RD & BASSETT RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=12520
+25 - Madison,West,DETROIT RD & BATES RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=12522
+25 - Madison,West,DETROIT RD & BRICK MILL RUN RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=11423
+25 - Madison,West,DETROIT RD & CANTERBURY RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=12525
+25 - Madison,West,DETROIT RD & COBBLESTONE CHASE,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=11448
+25 - Madison,West,DETROIT RD & COLUMBIA RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=17289
+25 - Madison,West,DETROIT RD & DOVER CENTER RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=12532
+25 - Madison,West,DETROIT RD & ELMWOOD RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=457
+25 - Madison,West,DETROIT RD & FRESNO DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=12533
+25 - Madison,West,DETROIT RD & HAMLET LN (KING JAMES NORTH,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=458
+25 - Madison,West,DETROIT RD & HUNTERS CHASE DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=12534
+25 - Madison,West,DETROIT RD & MARVIEW DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=12541
+25 - Madison,West,DETROIT RD & MEDFIELD DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=12543
+25 - Madison,West,DETROIT RD & MENDELSSOHN DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=11455
+25 - Madison,West,DETROIT RD & ORCHARD PARK DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=12546
+25 - Madison,West,DETROIT RD & QUEEN ANNE'S GATE,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=12549
+25 - Madison,West,DETROIT RD & REMINGTON DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=11468
+25 - Madison,West,DETROIT RD & WARWICK LN,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=11404
+25 - Madison,West,HILLIARD BLVD & VALLEY VIEW DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=13093
+25 - Madison,West,Madison & Warren,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=13547
+25 - Madison,West,MADISON AV & BELLE AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=13483
+25 - Madison,West,MADISON AV & BUNTS RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=13488
+25 - Madison,West,MADISON AV & CHESTERLAND AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=13491
+25 - Madison,West,MADISON AV & CLARENCE AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=13493
+25 - Madison,West,MADISON AV & COHASSETT AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=13494
+25 - Madison,West,MADISON AV & COUTANT AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=991
+25 - Madison,West,MADISON AV & ELBUR AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=13496
+25 - Madison,West,MADISON AV & ELMWOOD AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=13497
+25 - Madison,West,MADISON AV & HILLIARD RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=13499
+25 - Madison,West,MADISON AV & LAKELAND AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=13502
+25 - Madison,West,MADISON AV & LARCHMONT AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=13503
+25 - Madison,West,MADISON AV & LINCOLN AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=13506
+25 - Madison,West,MADISON AV & NEWMAN AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=13510
+25 - Madison,West,MADISON AV & NORTHLAND AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=13512
+25 - Madison,West,MADISON AV & RIDGEWOOD AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=13515
+25 - Madison,West,MADISON AV & ROBINWOOD AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=13516
+25 - Madison,West,MADISON AV & SPRING GARDEN AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=13518
+25 - Madison,West,MADISON AV & WAGAR AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=13545
+25 - Madison,West,Ranney & Clemens,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=17620
+25 - Madison,West,RIVERSIDE DR & INDIANOLA DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=14037
+25 - Madison,West,UNION AV & MAIN AV (CROCKER PARK SHOPPIN,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=16016
+25 - Madison,West,W 102ND & BEREA ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=17613
+25 - Madison,West,W 104TH & BEREA ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=17614
+25 - Madison,West,W.117-Madison Station (Bus),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=16980
+25 - Madison,West,WAGAR RD & CENTER RIDGE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=449
+25 - Madison,West,WAGAR RD & HILLIARD BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=14631
+25 - Madison,West,WAGAR RD & WESTWAY DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=17198
+25 - Madison,West,West Blvd-Cudell Stn (Bus),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=17738
+25 - Madison,West,Westgate Transit Center,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=10694
+25 - Madison,West,WESTLAKE PARK-N-RIDE EXIT & COLUMBIA RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=15460
+25 - Madison,West,WESTLAKE PARK-N-RIDE STOP #2,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=537
+25 - Madison,West,WESTLAKE PARK-N-RIDE STOP #3,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=8788
+25 - Madison,West,Westlake Park-n-Ride,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=904
+25 - Madison,West,WOOSTER RD & MORELY AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=10696
+25 - Madison,West,WOOSTER RD & ROCKCLIFF DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=47&d=14&s=10556
 26 - Detroit,East,2772 WOOSTER RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=165&d=3&s=10630
 26 - Detroit,East,7801 DETROIT AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=165&d=3&s=17464
 26 - Detroit,East,9901 DETROIT AV (CUDELL REC CTR),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=165&d=3&s=663
@@ -2431,6 +2748,145 @@
 32 - Cedar,West,EUCLID AV & STOKES BLVD STATION,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=149&d=14&s=16675
 32 - Cedar,West,MARTIN LUTHER KING DR & CASE ENTRANCE,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=149&d=14&s=516
 32 - Cedar,West,Montefiore Home,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=149&d=14&s=526
+34 - E. 200-Green,North,205 S GREEN RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=1164
+34 - E. 200-Green,North,370 S GREEN RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=8966
+34 - E. 200-Green,North,501 E 200TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=1167
+34 - E. 200-Green,North,527 S GREEN RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=1163
+34 - E. 200-Green,North,591 E 200TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=1166
+34 - E. 200-Green,North,681 E 200TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9012
+34 - E. 200-Green,North,958 S GREEN RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=1162
+34 - E. 200-Green,North,1081 E 200TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=1165
+34 - E. 200-Green,North,1331 CHARDON RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=8833
+34 - E. 200-Green,North,1611 S GREEN RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=1159
+34 - E. 200-Green,North,1985 GREEN RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9698
+34 - E. 200-Green,North,1999 S GREEN RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=1156
+34 - E. 200-Green,North,2098 GREEN RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=10703
+34 - E. 200-Green,North,2175 GREEN RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=8892
+34 - E. 200-Green,North,2255 GREEN RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=8897
+34 - E. 200-Green,North,2424 S GREEN RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=1153
+34 - E. 200-Green,North,CHARDON RD & E 200TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9103
+34 - E. 200-Green,North,CHARDON RD & EUCLID AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9104
+34 - E. 200-Green,North,CHARDON RD & NORTH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9105
+34 - E. 200-Green,North,E 189TH ST & EUCLID HOSPITAL,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=10660
+34 - E. 200-Green,North,E 189TH ST & LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=10662
+34 - E. 200-Green,North,E 200TH ST & BALL AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9305
+34 - E. 200-Green,North,E 200TH ST & CHEROKEE AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9306
+34 - E. 200-Green,North,E 200TH ST & CHICKASAW AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9308
+34 - E. 200-Green,North,E 200TH ST & FULLER AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9309
+34 - E. 200-Green,North,E 200TH ST & PRIDAY AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=1168
+34 - E. 200-Green,North,E 200TH ST & SHAWNEE AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9325
+34 - E. 200-Green,North,E 200TH ST & TRACY AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=10659
+34 - E. 200-Green,North,E.185-Euclid Hosp Layover,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=17269
+34 - E. 200-Green,North,Euclid & Green,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9531
+34 - E. 200-Green,North,EUCLID AV & CHARDON RD W,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=17376
+34 - E. 200-Green,North,EUCLID AV & E 191ST ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9463
+34 - E. 200-Green,North,EUCLID AV & E 193RD ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9465
+34 - E. 200-Green,North,EUCLID AV & E 196TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9467
+34 - E. 200-Green,North,EUCLID AV & HIGHLAND RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9533
+34 - E. 200-Green,North,GREEN RD & LANCASTER RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9666
+34 - E. 200-Green,North,GREEN RD & LIBERTY RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9671
+34 - E. 200-Green,North,GREEN RD & LILAC RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9672
+34 - E. 200-Green,North,GREEN RD & PRINCETON BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=10702
+34 - E. 200-Green,North,GREEN RD & RIDGEHILL RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=16552
+34 - E. 200-Green,North,GREEN RD & SHAKER BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9688
+34 - E. 200-Green,North,GREEN RD & WESTON RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9696
+34 - E. 200-Green,North,Green Rd Station (Bus),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=669
+34 - E. 200-Green,North,LAKESHORE BLVD & E 189TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=16156
+34 - E. 200-Green,North,LAKESHORE BLVD & E 194TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9786
+34 - E. 200-Green,North,LAKESHORE BLVD & E 197TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9788
+34 - E. 200-Green,North,Mayfield & Green,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=1161
+34 - E. 200-Green,North,S GREEN RD & ADRIAN RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9631
+34 - E. 200-Green,North,S GREEN RD & ANDERSON RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9633
+34 - E. 200-Green,North,S GREEN RD & ARDENDALE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=1160
+34 - E. 200-Green,North,S GREEN RD & BAYARD RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9640
+34 - E. 200-Green,North,S GREEN RD & BLUESTONE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9642
+34 - E. 200-Green,North,S GREEN RD & CEDAR RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9644
+34 - E. 200-Green,North,S GREEN RD & E BERWALD RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9650
+34 - E. 200-Green,North,S GREEN RD & EDMOND DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9651
+34 - E. 200-Green,North,S GREEN RD & EMERSON RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9653
+34 - E. 200-Green,North,S GREEN RD & FAIRMOUNT BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9657
+34 - E. 200-Green,North,S GREEN RD & FAIRMOUNT RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=8688
+34 - E. 200-Green,North,S GREEN RD & GOLFWAY RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=1157
+34 - E. 200-Green,North,S GREEN RD & GREENLAWN AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=1154
+34 - E. 200-Green,North,S GREEN RD & MAYFIELD RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9674
+34 - E. 200-Green,North,S GREEN RD & MONTICELLO BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9679
+34 - E. 200-Green,North,S GREEN RD & RANCH RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=1152
+34 - E. 200-Green,North,S GREEN RD & RENWOOD RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=1158
+34 - E. 200-Green,North,S GREEN RD & SILSBY RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=709
+34 - E. 200-Green,North,S GREEN RD & TELHURST RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9693
+34 - E. 200-Green,North,St. Clair & E.200,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=5&s=9327
+34 - E. 200-Green,South,230 S GREEN RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=8901
+34 - E. 200-Green,South,1084 E 200TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=1147
+34 - E. 200-Green,South,1200 E 200TH ST (NOBLE ACADEMY),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=1148
+34 - E. 200-Green,South,1311 CHARDON RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=8829
+34 - E. 200-Green,South,1438 GREEN RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=262
+34 - E. 200-Green,South,1491 CHARDON RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=8841
+34 - E. 200-Green,South,2094 GREEN RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=16406
+34 - E. 200-Green,South,2180 S GREEN RD (HEINEN'S),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=10676
+34 - E. 200-Green,South,2191 GREEN RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9661
+34 - E. 200-Green,South,2200 GREEN RD (JOHN CARROLL UNIV ANNEX),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=17144
+34 - E. 200-Green,South,2280 GREEN RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=8899
+34 - E. 200-Green,South,19700 LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=8872
+34 - E. 200-Green,South,20001 EUCLID AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=871
+34 - E. 200-Green,South,E 185TH ST & LAKE SHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9290
+34 - E. 200-Green,South,E 200TH ST & CHEROKEE AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9307
+34 - E. 200-Green,South,E 200TH ST & FULLER AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9310
+34 - E. 200-Green,South,E 200TH ST & KEWANEE AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9311
+34 - E. 200-Green,South,E 200TH ST & KILDEER AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9312
+34 - E. 200-Green,South,E 200TH ST & MORRIS AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=10658
+34 - E. 200-Green,South,E 200TH ST & MUSKOKO AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9319
+34 - E. 200-Green,South,E 200TH ST & NEWTON AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9321
+34 - E. 200-Green,South,E 200TH ST & ORMISTON AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9322
+34 - E. 200-Green,South,E 200TH ST & PASNOW AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9323
+34 - E. 200-Green,South,E 200TH ST & PAWNEE AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9324
+34 - E. 200-Green,South,E 200TH ST & S LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9326
+34 - E. 200-Green,South,E.185-Euclid Hosp Layover,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=17269
+34 - E. 200-Green,South,Euclid & Green,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9656
+34 - E. 200-Green,South,EUCLID AV & CHARDON RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9432
+34 - E. 200-Green,South,EUCLID AV & DILLE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9442
+34 - E. 200-Green,South,EUCLID AV & E 191ST ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9464
+34 - E. 200-Green,South,EUCLID AV & E 193RD ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9466
+34 - E. 200-Green,South,EUCLID AV & E 196TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9468
+34 - E. 200-Green,South,EUCLID AV & GRAND BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9530
+34 - E. 200-Green,South,GREEN RD & ARDENDALE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9637
+34 - E. 200-Green,South,GREEN RD & ARDMORE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9638
+34 - E. 200-Green,South,GREEN RD & E BAINTREE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9639
+34 - E. 200-Green,South,GREEN RD & LANCASTER RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9667
+34 - E. 200-Green,South,GREEN RD & LANDON RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9668
+34 - E. 200-Green,South,GREEN RD & LAUREL RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9669
+34 - E. 200-Green,South,GREEN RD & LUCILLE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9673
+34 - E. 200-Green,South,GREEN RD & MONTICELLO BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9680
+34 - E. 200-Green,South,GREEN RD & NEVILLE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9681
+34 - E. 200-Green,South,GREEN RD & NEWBERRY AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9023
+34 - E. 200-Green,South,GREEN RD & PRINCETON BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9682
+34 - E. 200-Green,South,GREEN RD & RANCH RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9683
+34 - E. 200-Green,South,GREEN RD & RENWOOD RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9684
+34 - E. 200-Green,South,GREEN RD & RIDGEHILL RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9685
+34 - E. 200-Green,South,GREEN RD & SHELBURNE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9690
+34 - E. 200-Green,South,GREEN RD & WESTON RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9697
+34 - E. 200-Green,South,Green Rd Station (Bus),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=669
+34 - E. 200-Green,South,LAKESHORE BLVD & E 185TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9783
+34 - E. 200-Green,South,LAKESHORE BLVD & E 195TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9787
+34 - E. 200-Green,South,LAKESHORE BLVD & E 200TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=17753
+34 - E. 200-Green,South,LAKESHORE BLVD & S LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=10661
+34 - E. 200-Green,South,Mayfield & Green,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9675
+34 - E. 200-Green,South,S GREEN RD & ADRIAN RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9632
+34 - E. 200-Green,South,S GREEN RD & BAYARD RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9641
+34 - E. 200-Green,South,S GREEN RD & BLUESTONE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9643
+34 - E. 200-Green,South,S GREEN RD & CEDAR RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9645
+34 - E. 200-Green,South,S GREEN RD & COLLEGE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=10678
+34 - E. 200-Green,South,S GREEN RD & E CARROLL BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=10675
+34 - E. 200-Green,South,S GREEN RD & ELMWOOD RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9652
+34 - E. 200-Green,South,S GREEN RD & FAIRMOUNT BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=8689
+34 - E. 200-Green,South,S GREEN RD & FAIRMOUNT BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9658
+34 - E. 200-Green,South,S GREEN RD & GOLFWAY RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=10677
+34 - E. 200-Green,South,S GREEN RD & MAYFIELD RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9676
+34 - E. 200-Green,South,S GREEN RD & MONTAGANO BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9678
+34 - E. 200-Green,South,S GREEN RD & RUPLE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9686
+34 - E. 200-Green,South,S GREEN RD & SUMMERFIELD RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=10674
+34 - E. 200-Green,South,S GREEN RD & TAMALGA DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9692
+34 - E. 200-Green,South,S GREEN RD & UNIVERSITY PKWY,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=10673
+34 - E. 200-Green,South,St. Clair & E.200,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=57&d=7&s=9328
 37 - E. 185-Taylor,North,25 SEVERANCE CIRCLE (SEVERANCE TOWER),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=104&d=5&s=630
 37 - E. 185-Taylor,North,35 SEVERANCE CIRCLE (THE CONCORD),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=104&d=5&s=538
 37 - E. 185-Taylor,North,50 SEVERANCE CIRCLE (SEVERANCE PLACE),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=104&d=5&s=10728
@@ -2691,6 +3147,218 @@
 38 - Hough,West,SUPERIOR AV & E 9TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=63&d=14&s=10331
 38 - Hough,West,SUPERIOR AV & E 12TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=63&d=14&s=10281
 38 - Hough,West,W.3 & Superior,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=63&d=14&s=17401
+39 - Lakeshore,East,(DNU) BABBITT RD & FOX AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=8999
+39 - Lakeshore,East,891 BABBITT RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=1190
+39 - Lakeshore,East,1077 E 174TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=1341
+39 - Lakeshore,East,1301 E 9TH ST (GALLERIA),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=10582
+39 - Lakeshore,East,9030 LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=10563
+39 - Lakeshore,East,11404 LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=1346
+39 - Lakeshore,East,11801 LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=8815
+39 - Lakeshore,East,12518 LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=8820
+39 - Lakeshore,East,12720 LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=8823
+39 - Lakeshore,East,12910 LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=8825
+39 - Lakeshore,East,13211 LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=8831
+39 - Lakeshore,East,13478 LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=8835
+39 - Lakeshore,East,17570 LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=8854
+39 - Lakeshore,East,19700 LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=8872
+39 - Lakeshore,East,22569 SHORE CENTER DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=17293
+39 - Lakeshore,East,22818 LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=297
+39 - Lakeshore,East,23540 LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=8917
+39 - Lakeshore,East,28420 LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=8956
+39 - Lakeshore,East,29525 LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=10666
+39 - Lakeshore,East,BABBITT & SHORE CENTER,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=1184
+39 - Lakeshore,East,BABBITT RD & E 236TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9050
+39 - Lakeshore,East,BABBITT RD & GAY ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9056
+39 - Lakeshore,East,BABBITT RD & HARTLAND RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9058
+39 - Lakeshore,East,BABBITT RD & LAKELAND BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=10670
+39 - Lakeshore,East,BABBITT RD & LAKEMONT AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9062
+39 - Lakeshore,East,BABBITT RD & N LAKELAND BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9060
+39 - Lakeshore,East,BABBITT RD & ST. CLAIR AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9066
+39 - Lakeshore,East,E 9TH ST & SHOREWAY EB ON-RAMP,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=16646
+39 - Lakeshore,East,E 174TH ST & GROVEWOOD AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9279
+39 - Lakeshore,East,E 174TH ST & NOTTINGHAM RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=17597
+39 - Lakeshore,East,E 185TH ST & KILDEER AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9289
+39 - Lakeshore,East,E 185TH ST & MONTEREY AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9297
+39 - Lakeshore,East,E 185TH ST & MUSKOKA AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9285
+39 - Lakeshore,East,E 185TH ST & NEFF RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9294
+39 - Lakeshore,East,E 185TH ST & PASNOW AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9298
+39 - Lakeshore,East,E 185TH ST & PAWNEE AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9303
+39 - Lakeshore,East,E 185TH ST & UNDERWOOD AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9302
+39 - Lakeshore,East,E 189TH ST & EUCLID HOSPITAL,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=10660
+39 - Lakeshore,East,E 189TH ST & LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=10662
+39 - Lakeshore,East,E 228TH ST & FARRINGDON AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=16687
+39 - Lakeshore,East,E.185-Euclid Hosp Layover,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=16154
+39 - Lakeshore,East,Euclid Park-n-Ride,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=10564
+39 - Lakeshore,East,Grovewood & E.174,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9706
+39 - Lakeshore,East,GROVEWOOD AV & E 156TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9699
+39 - Lakeshore,East,GROVEWOOD AV & E 161ST ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9701
+39 - Lakeshore,East,GROVEWOOD AV & E 167TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9702
+39 - Lakeshore,East,GROVEWOOD AV & E 170TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9704
+39 - Lakeshore,East,Lake Shore Blvd & E.140,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9766
+39 - Lakeshore,East,Lakeshore Bl & Bratenahl Rd,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9754
+39 - Lakeshore,East,Lakeshore Blvd - E 185,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9783
+39 - Lakeshore,East,LAKESHORE BLVD & BRAZIL RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9755
+39 - Lakeshore,East,LAKESHORE BLVD & BRIGHTON DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9756
+39 - Lakeshore,East,LAKESHORE BLVD & COIT RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9760
+39 - Lakeshore,East,LAKESHORE BLVD & CORNING DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9762
+39 - Lakeshore,East,LAKESHORE BLVD & E 143RD ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9769
+39 - Lakeshore,East,LAKESHORE BLVD & E 147TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9771
+39 - Lakeshore,East,LAKESHORE BLVD & E 149TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9773
+39 - Lakeshore,East,LAKESHORE BLVD & E 156TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9777
+39 - Lakeshore,East,LAKESHORE BLVD & E 195TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9787
+39 - Lakeshore,East,LAKESHORE BLVD & E 200TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=17753
+39 - Lakeshore,East,LAKESHORE BLVD & E 206TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9793
+39 - Lakeshore,East,LAKESHORE BLVD & E 210TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9797
+39 - Lakeshore,East,LAKESHORE BLVD & E 214TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=718
+39 - Lakeshore,East,LAKESHORE BLVD & E 218TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9803
+39 - Lakeshore,East,Lakeshore Blvd & E 222,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=16838
+39 - Lakeshore,East,LAKESHORE BLVD & E 224TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=10663
+39 - Lakeshore,East,LAKESHORE BLVD & E 232ND ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9808
+39 - Lakeshore,East,LAKESHORE BLVD & E 238TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9809
+39 - Lakeshore,East,LAKESHORE BLVD & E 242ND ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=17153
+39 - Lakeshore,East,LAKESHORE BLVD & E 246TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=17154
+39 - Lakeshore,East,LAKESHORE BLVD & E 250TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9812
+39 - Lakeshore,East,LAKESHORE BLVD & E 255TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9814
+39 - Lakeshore,East,LAKESHORE BLVD & E 260TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9815
+39 - Lakeshore,East,LAKESHORE BLVD & E 262ND ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=17014
+39 - Lakeshore,East,LAKESHORE BLVD & E 266TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9817
+39 - Lakeshore,East,LAKESHORE BLVD & E 270TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=8953
+39 - Lakeshore,East,LAKESHORE BLVD & E 280TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9821
+39 - Lakeshore,East,LAKESHORE BLVD & E 288TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=10592
+39 - Lakeshore,East,LAKESHORE BLVD & E 293RD ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=10590
+39 - Lakeshore,East,LAKESHORE BLVD & EDDY RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9823
+39 - Lakeshore,East,LAKESHORE BLVD & FAIRWAY BLVD (SHOREGATE,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=10667
+39 - Lakeshore,East,LAKESHORE BLVD & GARFIELD LN,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9826
+39 - Lakeshore,East,LAKESHORE BLVD & GLENCOE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9827
+39 - Lakeshore,East,LAKESHORE BLVD & GORDON PARK ACCESS LN,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=502
+39 - Lakeshore,East,LAKESHORE BLVD & GROVEWOOD AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9829
+39 - Lakeshore,East,LAKESHORE BLVD & HARLAND AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9831
+39 - Lakeshore,East,LAKESHORE BLVD & HILLER AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9833
+39 - Lakeshore,East,LAKESHORE BLVD & HOLDEN LN,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9834
+39 - Lakeshore,East,LAKESHORE BLVD & HUNTMERE AVE,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=17728
+39 - Lakeshore,East,LAKESHORE BLVD & LAKE SHORE DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=1181
+39 - Lakeshore,East,LAKESHORE BLVD & LANDSEER RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9764
+39 - Lakeshore,East,LAKESHORE BLVD & LLOYD RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9839
+39 - Lakeshore,East,LAKESHORE BLVD & MAPLECLIFF RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9841
+39 - Lakeshore,East,LAKESHORE BLVD & MARTIN LUTHER KING JR DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=17735
+39 - Lakeshore,East,LAKESHORE BLVD & NEFF RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9843
+39 - Lakeshore,East,LAKESHORE BLVD & S LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=10661
+39 - Lakeshore,East,Lakeside & E.9,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=9364
+39 - Lakeshore,East,LAKSHORE BLVD & SHORGATE EAST DRIVE,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=17246
+39 - Lakeshore,East,ONTARIO ST & EUCLID AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=11118
+39 - Lakeshore,East,ONTARIO ST & ST. CLAIR AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=10035
+39 - Lakeshore,East,Prospect-Tower City EB,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=14866
+39 - Lakeshore,East,Shoregate Shopping Center,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=10589
+39 - Lakeshore,East,ST. CLAIR AV & E 6TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=3&s=10226
+39 - Lakeshore,West,1083 E 174TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=10638
+39 - Lakeshore,West,9032 LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9836
+39 - Lakeshore,West,11401 LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=1347
+39 - Lakeshore,West,11801 LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=8816
+39 - Lakeshore,West,12521 LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=8821
+39 - Lakeshore,West,12700 LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=883
+39 - Lakeshore,West,13003 LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=8828
+39 - Lakeshore,West,13211 LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=8832
+39 - Lakeshore,West,13405 LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=8834
+39 - Lakeshore,West,22472 SHORE CENTER,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=16171
+39 - Lakeshore,West,25717 LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=8945
+39 - Lakeshore,West,28421 LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=602
+39 - Lakeshore,West,29601 LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=17729
+39 - Lakeshore,West,BABBITT RD & BENNINGTON HAMLET CIR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9051
+39 - Lakeshore,West,BABBITT RD & BRIARDALE AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9065
+39 - Lakeshore,West,BABBITT RD & E 239TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9055
+39 - Lakeshore,West,BABBITT RD & GAY ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9057
+39 - Lakeshore,West,BABBITT RD & HARTLAND RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9059
+39 - Lakeshore,West,BABBITT RD & LAKELAND BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=501
+39 - Lakeshore,West,BABBITT RD & LAKEMONT AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9063
+39 - Lakeshore,West,BABBITT RD & N LAKELAND BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=1188
+39 - Lakeshore,West,BABBITT RD & SHORE CENTER DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=17054
+39 - Lakeshore,West,BABBITT RD & ST. CLAIR AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=1187
+39 - Lakeshore,West,E 9TH ST & LAKESIDE AV E,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9365
+39 - Lakeshore,West,E 9TH ST & NORTH COAST STATION,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=16647
+39 - Lakeshore,West,E 9TH ST & ST. CLAIR AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9366
+39 - Lakeshore,West,E 9TH ST & SUPERIOR AV E,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9367
+39 - Lakeshore,West,E 9TH ST & THERESA CT,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=10581
+39 - Lakeshore,West,E 156TH ST & LAKESHORE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9276
+39 - Lakeshore,West,E 174TH ST & NOTTINGHAM RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9282
+39 - Lakeshore,West,E 185TH ST & GLENFIELD RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9288
+39 - Lakeshore,West,E 185TH ST & LA SALLE AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9287
+39 - Lakeshore,West,E 185TH ST & MONTEREY AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9286
+39 - Lakeshore,West,E 185TH ST & NEFF RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9295
+39 - Lakeshore,West,E 185TH ST & PAWNEE AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9296
+39 - Lakeshore,West,E 185TH ST & ROSECLIFF RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9299
+39 - Lakeshore,West,E 185TH ST & SCHENELY AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9300
+39 - Lakeshore,West,E.185-Euclid Hosp Layover,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=16154
+39 - Lakeshore,West,Euclid Park-n-Ride,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=10564
+39 - Lakeshore,West,FRANKFORT AV & W 3RD ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=17298
+39 - Lakeshore,West,FRANKFORT AV & W 6TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=17664
+39 - Lakeshore,West,Freeway & E.185,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9293
+39 - Lakeshore,West,Grovewood & E.174,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9707
+39 - Lakeshore,West,GROVEWOOD AV & E 156TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9700
+39 - Lakeshore,West,GROVEWOOD AV & E 161ST ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9630
+39 - Lakeshore,West,GROVEWOOD AV & E 167TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9703
+39 - Lakeshore,West,GROVEWOOD AV & E 170TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9705
+39 - Lakeshore,West,Lake Shore Blvd & E.140,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9767
+39 - Lakeshore,West,Lakeshore Bl & Bratenahl Rd,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9753
+39 - Lakeshore,West,Lakeshore Blvd - E 185,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9291
+39 - Lakeshore,West,Lakeshore Blvd - E 185,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9784
+39 - Lakeshore,West,LAKESHORE BLVD & BONNIEWOOD DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9752
+39 - Lakeshore,West,LAKESHORE BLVD & BRIGHTON DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9757
+39 - Lakeshore,West,LAKESHORE BLVD & BURTON AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9758
+39 - Lakeshore,West,LAKESHORE BLVD & COIT RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9761
+39 - Lakeshore,West,LAKESHORE BLVD & CORNING DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9763
+39 - Lakeshore,West,LAKESHORE BLVD & CRESTLAND RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9765
+39 - Lakeshore,West,LAKESHORE BLVD & E 142ND ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9768
+39 - Lakeshore,West,LAKESHORE BLVD & E 143RD ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9770
+39 - Lakeshore,West,LAKESHORE BLVD & E 149TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9774
+39 - Lakeshore,West,LAKESHORE BLVD & E 152ND ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9776
+39 - Lakeshore,West,LAKESHORE BLVD & E 189TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=16156
+39 - Lakeshore,West,LAKESHORE BLVD & E 194TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9786
+39 - Lakeshore,West,LAKESHORE BLVD & E 197TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9788
+39 - Lakeshore,West,LAKESHORE BLVD & E 200TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9790
+39 - Lakeshore,West,LAKESHORE BLVD & E 204TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9792
+39 - Lakeshore,West,LAKESHORE BLVD & E 205TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=1183
+39 - Lakeshore,West,LAKESHORE BLVD & E 209TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9796
+39 - Lakeshore,West,LAKESHORE BLVD & E 214TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9800
+39 - Lakeshore,West,LAKESHORE BLVD & E 217TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9804
+39 - Lakeshore,West,Lakeshore Blvd & E 222,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=17059
+39 - Lakeshore,West,LAKESHORE BLVD & E 224TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=345
+39 - Lakeshore,West,LAKESHORE BLVD & E 228TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9807
+39 - Lakeshore,West,LAKESHORE BLVD & E 232ND ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=8905
+39 - Lakeshore,West,LAKESHORE BLVD & E 238TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9810
+39 - Lakeshore,West,LAKESHORE BLVD & E 242ND ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9811
+39 - Lakeshore,West,LAKESHORE BLVD & E 246TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=8934
+39 - Lakeshore,West,LAKESHORE BLVD & E 248TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=8937
+39 - Lakeshore,West,LAKESHORE BLVD & E 250TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=889
+39 - Lakeshore,West,LAKESHORE BLVD & E 264TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=17730
+39 - Lakeshore,West,LAKESHORE BLVD & E 265TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9816
+39 - Lakeshore,West,LAKESHORE BLVD & E 271ST ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9818
+39 - Lakeshore,West,LAKESHORE BLVD & E 280TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9822
+39 - Lakeshore,West,LAKESHORE BLVD & E 293RD ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=1182
+39 - Lakeshore,West,LAKESHORE BLVD & EDDY RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9824
+39 - Lakeshore,West,LAKESHORE BLVD & EDGECLIFF DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9825
+39 - Lakeshore,West,LAKESHORE BLVD & GILCHRIST DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=603
+39 - Lakeshore,West,LAKESHORE BLVD & GLENCOE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9828
+39 - Lakeshore,West,LAKESHORE BLVD & GORDON BOAT RAMP,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=17736
+39 - Lakeshore,West,LAKESHORE BLVD & GORDON PARK,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9837
+39 - Lakeshore,West,LAKESHORE BLVD & GROVEWOOD AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9830
+39 - Lakeshore,West,LAKESHORE BLVD & HARLAND AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9832
+39 - Lakeshore,West,LAKESHORE BLVD & HOLDEN LN,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9835
+39 - Lakeshore,West,LAKESHORE BLVD & LAKE EDGE DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9838
+39 - Lakeshore,West,LAKESHORE BLVD & LAKE SHORE DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=890
+39 - Lakeshore,West,LAKESHORE BLVD & LAKEFRONT RESERVATION,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=17737
+39 - Lakeshore,West,LAKESHORE BLVD & LANDSEER RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9759
+39 - Lakeshore,West,LAKESHORE BLVD & LLOYD RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9840
+39 - Lakeshore,West,LAKESHORE BLVD & MAPLECLIFF RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9842
+39 - Lakeshore,West,LAKESHORE BLVD & MARCELLA RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=8856
+39 - Lakeshore,West,LAKESHORE BLVD & MARTIN LUTHER KING JR DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=17734
+39 - Lakeshore,West,LAKESHORE BLVD & NEFF RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=9844
+39 - Lakeshore,West,LAKESHORE BLVD & WILDWOOD LN,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=8855
+39 - Lakeshore,West,Prospect-Tower City EB,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=14866
+39 - Lakeshore,West,SHORE CENTER & FARRINGDON,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=16172
+39 - Lakeshore,West,Shoregate Shopping Center,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=10589
+39 - Lakeshore,West,ST. CLAIR AV & EUCLID PARK-N-RIDE ENTRAN,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=16419
+39 - Lakeshore,West,SUPERIOR AV & E 6TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=10314
+39 - Lakeshore,West,SUPERIOR AV & EAST ROADWAY,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=166&d=14&s=10349
 40 - Lakeview- Lee,North,496 E 110TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=35&d=5&s=11602
 40 - Lakeview- Lee,North,745 LAKEVIEW RD (GLENVILLE HIGH SCHOOL),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=35&d=5&s=1208
 40 - Lakeview- Lee,North,3677 LEE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=35&d=5&s=11533
@@ -4161,6 +4829,213 @@
 51 - W. 25-Pearl,South,W 130TH ST & SOUTHLAND DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=176&d=7&s=17195
 51 - W. 25-Pearl,South,W SPRAGUE RD & COMMERCE CT,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=176&d=7&s=17431
 51 - W. 25-Pearl,South,W SPRAGUE RD & MOHAWK DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=176&d=7&s=17430
+53F - 53F Broadview - N. Royalton,North,2139 W ROYALTON RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=15308
+53F - 53F Broadview - N. Royalton,North,2301 W ROYALTON RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=15307
+53F - 53F Broadview - N. Royalton,North,2801 W ROYALTON RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=15305
+53F - 53F Broadview - N. Royalton,North,3257 W ROYALTON RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=15304
+53F - 53F Broadview - N. Royalton,North,4401 ROYALTON RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=15302
+53F - 53F Broadview - N. Royalton,North,6037 ROYALTON RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=11647
+53F - 53F Broadview - N. Royalton,North,6687 ROYALTON RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=11666
+53F - 53F Broadview - N. Royalton,North,7311 BROADVIEW RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=15329
+53F - 53F Broadview - N. Royalton,North,7391 BROADVIEW RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=17404
+53F - 53F Broadview - N. Royalton,North,7595 ROYALTON RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=11702
+53F - 53F Broadview - N. Royalton,North,7977 BROADVIEW RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=15325
+53F - 53F Broadview - N. Royalton,North,Broadview & Brookpark,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=17444
+53F - 53F Broadview - N. Royalton,North,Broadview & Pleasant Valley,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=15326
+53F - 53F Broadview - N. Royalton,North,Broadview & Royalton,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=12037
+53F - 53F Broadview - N. Royalton,North,BROADVIEW RD & BROADROCK CT,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=11965
+53F - 53F Broadview - N. Royalton,North,BROADVIEW RD & BROOKDALE AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=15333
+53F - 53F Broadview - N. Royalton,North,BROADVIEW RD & CHESTNUT RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=11974
+53F - 53F Broadview - N. Royalton,North,BROADVIEW RD & COUNTRYSIDE DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=15318
+53F - 53F Broadview - N. Royalton,North,BROADVIEW RD & E RIDGEWOOD DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=11977
+53F - 53F Broadview - N. Royalton,North,BROADVIEW RD & E SPRAGUE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=12023
+53F - 53F Broadview - N. Royalton,North,BROADVIEW RD & E WALLINGS AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=15323
+53F - 53F Broadview - N. Royalton,North,BROADVIEW RD & ENGLEWOOD DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=17104
+53F - 53F Broadview - N. Royalton,North,BROADVIEW RD & EVELYN AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=11979
+53F - 53F Broadview - N. Royalton,North,BROADVIEW RD & GETTYSBURG DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=12002
+53F - 53F Broadview - N. Royalton,North,BROADVIEW RD & GRANTWOOD DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=11981
+53F - 53F Broadview - N. Royalton,North,BROADVIEW RD & HILLSDALE AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=11985
+53F - 53F Broadview - N. Royalton,North,BROADVIEW RD & HILLSIDE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=11987
+53F - 53F Broadview - N. Royalton,North,BROADVIEW RD & JUSTO LN,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=11989
+53F - 53F Broadview - N. Royalton,North,BROADVIEW RD & MARIETTA AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=11998
+53F - 53F Broadview - N. Royalton,North,BROADVIEW RD & MEADOWLANE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=11999
+53F - 53F Broadview - N. Royalton,North,BROADVIEW RD & MEADOWLAWN BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=15332
+53F - 53F Broadview - N. Royalton,North,BROADVIEW RD & ORCHARDVIEW RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=12006
+53F - 53F Broadview - N. Royalton,North,BROADVIEW RD & PANORAMA DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=12008
+53F - 53F Broadview - N. Royalton,North,BROADVIEW RD & PARKHAVEN DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=15330
+53F - 53F Broadview - N. Royalton,North,BROADVIEW RD & QUAIL RUN DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=15319
+53F - 53F Broadview - N. Royalton,North,BROADVIEW RD & ROCKSIDE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=11960
+53F - 53F Broadview - N. Royalton,North,BROADVIEW RD & ROYALWOOD RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=14956
+53F - 53F Broadview - N. Royalton,North,BROADVIEW RD & SANDPIPER DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=12015
+53F - 53F Broadview - N. Royalton,North,BROADVIEW RD & SCENIC LN,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=17405
+53F - 53F Broadview - N. Royalton,North,BROADVIEW RD & STARLIGHT DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=12025
+53F - 53F Broadview - N. Royalton,North,BROADVIEW RD & TOLLIS PKWY,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=12027
+53F - 53F Broadview - N. Royalton,North,BROADVIEW RD & VALLEY PARK DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=12031
+53F - 53F Broadview - N. Royalton,North,CHESTER AV & E 12TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=12370
+53F - 53F Broadview - N. Royalton,North,CHESTER AV & E 15TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=10573
+53F - 53F Broadview - N. Royalton,North,CHESTER AV & E 17TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=12372
+53F - 53F Broadview - N. Royalton,North,CHESTER AV & E 18TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=12373
+53F - 53F Broadview - N. Royalton,North,E 21ST ST & EUCLID AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=12777
+53F - 53F Broadview - N. Royalton,North,North Royalton Loop,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=14952
+53F - 53F Broadview - N. Royalton,North,ONTARIO ST & CARNEGIE AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=10757
+53F - 53F Broadview - N. Royalton,North,ONTARIO ST & EUCLID AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=11118
+53F - 53F Broadview - N. Royalton,North,ONTARIO ST & PROSPECT AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=11117
+53F - 53F Broadview - N. Royalton,North,ONTARIO ST & QUICKEN LOANS ARENA,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=10993
+53F - 53F Broadview - N. Royalton,North,ROYALTON RD & AKINS RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=17446
+53F - 53F Broadview - N. Royalton,North,ROYALTON RD & ASHLEY LN,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=15300
+53F - 53F Broadview - N. Royalton,North,ROYALTON RD & OAKBROOK DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=11743
+53F - 53F Broadview - N. Royalton,North,ROYALTON RD & PINE FOREST DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=14100
+53F - 53F Broadview - N. Royalton,North,ROYALTON RD & SPRINGFIELD DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=17447
+53F - 53F Broadview - N. Royalton,North,ROYALTON RD & STATE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=15298
+53F - 53F Broadview - N. Royalton,North,ROYALTON RD & STONEY CREEK DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=14104
+53F - 53F Broadview - N. Royalton,North,ROYALTON RD & YORK RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=17445
+53F - 53F Broadview - N. Royalton,North,STJ Transit Center,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=17256
+53F - 53F Broadview - N. Royalton,North,SUPERIOR AV & E 3RD ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=17453
+53F - 53F Broadview - N. Royalton,North,SUPERIOR AV & E 6TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=14273
+53F - 53F Broadview - N. Royalton,North,SUPERIOR AV & E 9TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=10264
+53F - 53F Broadview - N. Royalton,North,SUPERIOR AV & E 12TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=10280
+53F - 53F Broadview - N. Royalton,North,W ROYALTON RD & SENECA BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=5&s=15310
+53F - 53F Broadview - N. Royalton,South,1027 SUPERIOR AV E,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=11222
+53F - 53F Broadview - N. Royalton,South,2136 W ROYALTON RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=15368
+53F - 53F Broadview - N. Royalton,South,2296 W ROYALTON RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=15369
+53F - 53F Broadview - N. Royalton,South,2832 W ROYALTON RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=15371
+53F - 53F Broadview - N. Royalton,South,3282 W ROYALTON RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=15372
+53F - 53F Broadview - N. Royalton,South,4410 ROYALTON RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=15374
+53F - 53F Broadview - N. Royalton,South,6220 BROADVIEW RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=15349
+53F - 53F Broadview - N. Royalton,South,6684 BROADVIEW RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=11665
+53F - 53F Broadview - N. Royalton,South,7391 BROADVIEW RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=11697
+53F - 53F Broadview - N. Royalton,South,7664 BROADVIEW RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=11705
+53F - 53F Broadview - N. Royalton,South,7968 BROADVIEW RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=11711
+53F - 53F Broadview - N. Royalton,South,Broadview & Brookpark,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=17436
+53F - 53F Broadview - N. Royalton,South,Broadview & Pleasant Valley,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=11699
+53F - 53F Broadview - N. Royalton,South,Broadview & Royalton,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=15364
+53F - 53F Broadview - N. Royalton,South,BROADVIEW RD & BROADROCK CT,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=11966
+53F - 53F Broadview - N. Royalton,South,BROADVIEW RD & CARLTON RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=11976
+53F - 53F Broadview - N. Royalton,South,BROADVIEW RD & CHERRY LN,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=11972
+53F - 53F Broadview - N. Royalton,South,BROADVIEW RD & COUNTRYSIDE DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=15360
+53F - 53F Broadview - N. Royalton,South,BROADVIEW RD & E SPRAGUE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=12024
+53F - 53F Broadview - N. Royalton,South,BROADVIEW RD & EVELYN AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=15351
+53F - 53F Broadview - N. Royalton,South,BROADVIEW RD & GETTYSBURG DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=17475
+53F - 53F Broadview - N. Royalton,South,BROADVIEW RD & GRANTWOOD DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=11982
+53F - 53F Broadview - N. Royalton,South,BROADVIEW RD & GROVEWOOD AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=11984
+53F - 53F Broadview - N. Royalton,South,BROADVIEW RD & GUADALUPE DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=12026
+53F - 53F Broadview - N. Royalton,South,BROADVIEW RD & HILLSDALE AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=11986
+53F - 53F Broadview - N. Royalton,South,BROADVIEW RD & KEYSTONE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=11991
+53F - 53F Broadview - N. Royalton,South,BROADVIEW RD & MAPLE DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=11996
+53F - 53F Broadview - N. Royalton,South,BROADVIEW RD & MAPLEVIEW DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=11671
+53F - 53F Broadview - N. Royalton,South,BROADVIEW RD & MEADOWLANE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=15353
+53F - 53F Broadview - N. Royalton,South,BROADVIEW RD & OLD ROCKSIDE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=12005
+53F - 53F Broadview - N. Royalton,South,BROADVIEW RD & PANORAMA DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=11662
+53F - 53F Broadview - N. Royalton,South,BROADVIEW RD & PARKHAVEN DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=12009
+53F - 53F Broadview - N. Royalton,South,BROADVIEW RD & QUAIL RUN DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=15357
+53F - 53F Broadview - N. Royalton,South,BROADVIEW RD & ROYALWOOD RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=15363
+53F - 53F Broadview - N. Royalton,South,BROADVIEW RD & RUSTIC TRAIL,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=12014
+53F - 53F Broadview - N. Royalton,South,BROADVIEW RD & SANDPIPER DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=15108
+53F - 53F Broadview - N. Royalton,South,BROADVIEW RD & SNOW RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=12022
+53F - 53F Broadview - N. Royalton,South,BROADVIEW RD & TOLLIS PKWY,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=15358
+53F - 53F Broadview - N. Royalton,South,BROADVIEW RD & VALLEY PARK DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=12032
+53F - 53F Broadview - N. Royalton,South,BROADVIEW RD & W RIDGEWOOD DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=12012
+53F - 53F Broadview - N. Royalton,South,BROADVIEW RD & W WALLINGS RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=12039
+53F - 53F Broadview - N. Royalton,South,CHESTER AV & E 13TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=10572
+53F - 53F Broadview - N. Royalton,South,CHESTER AV & E 17TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=15655
+53F - 53F Broadview - N. Royalton,South,CHESTER AV & E 21ST ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=16887
+53F - 53F Broadview - N. Royalton,South,E 3RD ST & ROCKWELL AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=9355
+53F - 53F Broadview - N. Royalton,South,E 22ND ST & EUCLID AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=12782
+53F - 53F Broadview - N. Royalton,South,FRANKFORT AV & W 3RD ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=17298
+53F - 53F Broadview - N. Royalton,South,FRANKFORT AV & W 6TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=17664
+53F - 53F Broadview - N. Royalton,South,North Royalton Loop,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=14952
+53F - 53F Broadview - N. Royalton,South,ONTARIO ST & HURON RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=13697
+53F - 53F Broadview - N. Royalton,South,Prospect-Tower City EB,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=14865
+53F - 53F Broadview - N. Royalton,South,ROCKWELL AV & EAST ROADWAY,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=16191
+53F - 53F Broadview - N. Royalton,South,ROYALTON RD & ASHLEY LN,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=15377
+53F - 53F Broadview - N. Royalton,South,ROYALTON RD & BENNETT RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=14092
+53F - 53F Broadview - N. Royalton,South,ROYALTON RD & GLENMONT DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=15381
+53F - 53F Broadview - N. Royalton,South,ROYALTON RD & OAKBROOK DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=11704
+53F - 53F Broadview - N. Royalton,South,ROYALTON RD & PINE FOREST DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=14099
+53F - 53F Broadview - N. Royalton,South,ROYALTON RD & RIDGE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=17448
+53F - 53F Broadview - N. Royalton,South,ROYALTON RD & SPRINGFIELD DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=17449
+53F - 53F Broadview - N. Royalton,South,ROYALTON RD & STATE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=15379
+53F - 53F Broadview - N. Royalton,South,ROYALTON RD & STONEY CREEK DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=15373
+53F - 53F Broadview - N. Royalton,South,ROYALTON RD & WOODCROFT TRC,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=17450
+53F - 53F Broadview - N. Royalton,South,STJ Transit Center,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=17256
+53F - 53F Broadview - N. Royalton,South,SUPERIOR AV & E 6TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=10314
+53F - 53F Broadview - N. Royalton,South,SUPERIOR AV & E 12TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=10281
+53F - 53F Broadview - N. Royalton,South,W ROYALTON RD & SENECA BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=191&d=7&s=14103
+54 - Brookpark,East,4415 BROOKPARK RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=11565
+54 - Brookpark,East,5719 BROOKPARK RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=11633
+54 - Brookpark,East,7505 BROOKPARK RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=11701
+54 - Brookpark,East,7803 BROOKPARK RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=11709
+54 - Brookpark,East,8015 BROOKPARK RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=11713
+54 - Brookpark,East,8787 BROOKPARK RD (V A OUTPATIENT CLINIC,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=16950
+54 - Brookpark,East,8989 BROOKPARK RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=11741
+54 - Brookpark,East,10901 BROOKPARK RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=1353
+54 - Brookpark,East,12200 BROOKPARK RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=1035
+54 - Brookpark,East,12651 BROOKPARK RD (BARTH INDUSTRIES),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=1034
+54 - Brookpark,East,12859 BROOKPARK RD (FREEWAY LANES),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=10762
+54 - Brookpark,East,13311 BROOKPARK RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=16947
+54 - Brookpark,East,14111 BROOKPARK RD (HOLY CROSS CEMETERY),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=1355
+54 - Brookpark,East,15583 BROOKPARK RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=11318
+54 - Brookpark,East,15655 BROOKPARK RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=11322
+54 - Brookpark,East,Brookpark & Chevy Blvd,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=16948
+54 - Brookpark,East,BROOKPARK RD & HAUSERMAN RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=12113
+54 - Brookpark,East,BROOKPARK RD & HENRY FORD BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=16951
+54 - Brookpark,East,BROOKPARK RD & KNOLLWOOD DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=12114
+54 - Brookpark,East,BROOKPARK RD & PEARL RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=12116
+54 - Brookpark,East,BROOKPARK RD & RIDGE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=12118
+54 - Brookpark,East,BROOKPARK RD & ROSESIDE DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=12121
+54 - Brookpark,East,BROOKPARK RD & SMITH RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=12123
+54 - Brookpark,East,BROOKPARK RD & STATE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=12124
+54 - Brookpark,East,BROOKPARK RD & W 48TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=12145
+54 - Brookpark,East,BROOKPARK RD & W 54TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=12147
+54 - Brookpark,East,BROOKPARK RD & W 60TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=12149
+54 - Brookpark,East,BROOKPARK RD & W 83RD ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=12150
+54 - Brookpark,East,BROOKPARK RD & W 137TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=12127
+54 - Brookpark,East,BROOKPARK RD & W 139TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=12129
+54 - Brookpark,East,BROOKPARK RD & W 140TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=12131
+54 - Brookpark,East,BROOKPARK RD & W 147TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=1354
+54 - Brookpark,East,BROOKPARK RD & W 161ST ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=11959
+54 - Brookpark,East,BROOKPARK RD & W 164TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=12134
+54 - Brookpark,East,BROOKPARK RD & W COMMERCE PKWY,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=16949
+54 - Brookpark,East,Brookpark Station (Bus),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=691
+54 - Brookpark,East,Brookpark-W.33 Loop,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=12142
+54 - Brookpark,East,W 130TH ST & BROOKPARK RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=3&s=16945
+54 - Brookpark,West,5685 BROOKPARK RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=11630
+54 - Brookpark,West,6210 BROOKPARK RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=16409
+54 - Brookpark,West,7505 BROOKPARK RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=11700
+54 - Brookpark,West,8016 BROOKPARK RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=16946
+54 - Brookpark,West,8500 BROOKPARK RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=11727
+54 - Brookpark,West,8650 BROOKPARK RD (V A OUTPATIENT CLINIC,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=16952
+54 - Brookpark,West,8696 BROOKPARK RD (GOLDEN CORRAL),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=17050
+54 - Brookpark,West,10800 BROOKPARK RD (HOME DEPOT),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=11215
+54 - Brookpark,West,10820 BROOKPARK RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=16953
+54 - Brookpark,West,12200 BROOKPARK RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=1042
+54 - Brookpark,West,12650 BROOKPARK RD (BARTH INDUSTRIES),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=1043
+54 - Brookpark,West,12800 BROOKPARK RD (ALLIED BLDG PRODUCTS,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=1044
+54 - Brookpark,West,13300 BROOKPARK RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=11290
+54 - Brookpark,West,14500 BROOKPARK RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=1356
+54 - Brookpark,West,15410 BROOKPARK RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=11314
+54 - Brookpark,West,15708 BROOKPARK RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=11324
+54 - Brookpark,West,Brookpark & Chevy Blvd,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=10707
+54 - Brookpark,West,BROOKPARK RD & HENRY FORD BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=12112
+54 - Brookpark,West,BROOKPARK RD & KNOLLWOOD DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=12115
+54 - Brookpark,West,BROOKPARK RD & PEARL RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=12117
+54 - Brookpark,West,BROOKPARK RD & RIDGE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=12119
+54 - Brookpark,West,BROOKPARK RD & ROSESIDE DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=12122
+54 - Brookpark,West,BROOKPARK RD & STATE RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=12109
+54 - Brookpark,West,BROOKPARK RD & TIEDEMAN RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=12125
+54 - Brookpark,West,BROOKPARK RD & W 46TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=12144
+54 - Brookpark,West,BROOKPARK RD & W 49TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=12146
+54 - Brookpark,West,BROOKPARK RD & W 54TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=12148
+54 - Brookpark,West,BROOKPARK RD & W 78TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=11710
+54 - Brookpark,West,BROOKPARK RD & W 130TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=12126
+54 - Brookpark,West,BROOKPARK RD & W 137TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=12128
+54 - Brookpark,West,BROOKPARK RD & W 140TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=12132
+54 - Brookpark,West,BROOKPARK RD & W 147TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=859
+54 - Brookpark,West,BROOKPARK RD & W 150TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=12133
+54 - Brookpark,West,BROOKPARK RD & W 161ST ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=11336
+54 - Brookpark,West,BROOKPARK RD & W 164TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=12135
+54 - Brookpark,West,Brookpark Station (Bus),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=691
+54 - Brookpark,West,Brookpark-W.33 Loop,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=186&d=14&s=12142
 55 - Cleveland State Line,East,384 BRADLEY RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=168&d=3&s=15000
 55 - Cleveland State Line,East,1460 WAGAR RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=168&d=3&s=400
 55 - Cleveland State Line,East,1947 WAGAR RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=168&d=3&s=398
@@ -4465,6 +5340,81 @@
 55 - Cleveland State Line,West,WOLF RD & SADDLER RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=168&d=14&s=14732
 55 - Cleveland State Line,West,WOLF RD & UPLAND RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=168&d=14&s=14734
 55 - Cleveland State Line,West,WOLF RD & VINELAND RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=168&d=14&s=14736
+60 - Nine-Twelve Trolley,North,1301 E 9TH ST (GALLERIA),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=188&d=5&s=10582
+60 - Nine-Twelve Trolley,North,Chester & E. 9th,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=188&d=5&s=17351
+60 - Nine-Twelve Trolley,North,E 9TH ST & LAKESIDE AV E,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=188&d=5&s=9364
+60 - Nine-Twelve Trolley,North,E 9TH ST & ROCKWELL AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=188&d=5&s=15801
+60 - Nine-Twelve Trolley,North,E 9TH ST & SHOREWAY EB ON-RAMP,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=188&d=5&s=16646
+60 - Nine-Twelve Trolley,North,E 9TH ST & SUPERIOR AV E,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=188&d=5&s=12819
+60 - Nine-Twelve Trolley,North,E 12TH ST & WALNUT AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=188&d=5&s=16976
+60 - Nine-Twelve Trolley,North,MUNY LOT STOP #1,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=188&d=5&s=14840
+60 - Nine-Twelve Trolley,North,MUNY LOT STOP #2,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=188&d=5&s=14841
+60 - Nine-Twelve Trolley,North,MUNY LOT STOP #3,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=188&d=5&s=14842
+60 - Nine-Twelve Trolley,North,Muny Lot-AM Layover,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=188&d=5&s=14840
+60 - Nine-Twelve Trolley,North,Muny Lot-PM Layover,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=188&d=5&s=14843
+60 - Nine-Twelve Trolley,South,Chester & E. 9th,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=188&d=7&s=17351
+60 - Nine-Twelve Trolley,South,E 9TH ST & LAKESIDE AV E,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=188&d=7&s=9365
+60 - Nine-Twelve Trolley,South,E 9TH ST & NORTH COAST STATION,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=188&d=7&s=16647
+60 - Nine-Twelve Trolley,South,E 9TH ST & ST. CLAIR AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=188&d=7&s=9366
+60 - Nine-Twelve Trolley,South,E 9TH ST & SUPERIOR AV E,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=188&d=7&s=9367
+60 - Nine-Twelve Trolley,South,E 9TH ST & THERESA CT,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=188&d=7&s=10581
+60 - Nine-Twelve Trolley,South,MUNY LOT STOP #2,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=188&d=7&s=14841
+60 - Nine-Twelve Trolley,South,MUNY LOT STOP #3,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=188&d=7&s=14842
+60 - Nine-Twelve Trolley,South,MUNY LOT STOP #4,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=188&d=7&s=14843
+60 - Nine-Twelve Trolley,South,Muny Lot-AM Layover,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=188&d=7&s=14840
+60 - Nine-Twelve Trolley,South,Muny Lot-PM Layover,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=188&d=7&s=14843
+60 - Nine-Twelve Trolley,South,S MARGINAL RD & AMTRAK STATION,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=188&d=7&s=17457
+61 - E-Line Trolley,East,(OUT OF SERVICE) EUCLID AV & E 12TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=3&s=10575
+61 - E-Line Trolley,East,(OUT OF SERVICE) EUCLID AV & E 17TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=3&s=16888
+61 - E-Line Trolley,East,EUCLID AV & E 4TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=3&s=9491
+61 - E-Line Trolley,East,EUCLID AV & E 6TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=3&s=9403
+61 - E-Line Trolley,East,EUCLID AV & E 9TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=3&s=9521
+61 - E-Line Trolley,East,EUCLID AV & E 13TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=3&s=8822
+61 - E-Line Trolley,East,EUCLID AV & E 14TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=3&s=8844
+61 - E-Line Trolley,East,EUCLID AV & E 18TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=3&s=9461
+61 - E-Line Trolley,East,EUCLID AV & E 21ST ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=3&s=9469
+61 - E-Line Trolley,East,Public Sq.-Terminal Twr.,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=3&s=17297
+61 - E-Line Trolley,East,STJ Transit Center,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=3&s=16810
+61 - E-Line Trolley,East,SUPERIOR AV & W 3RD ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=3&s=10353
+61 - E-Line Trolley,East,W 6TH ST & FRANKFORT AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=3&s=14564
+61 - E-Line Trolley,East,W.6 & Johnson Ct (RTA HQ),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=3&s=14858
+61 - E-Line Trolley,West,EUCLID AV & E 4TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=14&s=9492
+61 - E-Line Trolley,West,EUCLID AV & E 6TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=14&s=9498
+61 - E-Line Trolley,West,EUCLID AV & E 9TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=14&s=9522
+61 - E-Line Trolley,West,EUCLID AV & E 12TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=14&s=9454
+61 - E-Line Trolley,West,EUCLID AV & E 13TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=14&s=9458
+61 - E-Line Trolley,West,EUCLID AV & E 14TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=14&s=9459
+61 - E-Line Trolley,West,EUCLID AV & E 17TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=14&s=687
+61 - E-Line Trolley,West,EUCLID AV & E 18TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=14&s=9462
+61 - E-Line Trolley,West,EUCLID AV & E 21ST ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=14&s=16808
+61 - E-Line Trolley,West,EUCLID AV & EAST ROADWAY,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=14&s=11427
+61 - E-Line Trolley,West,STJ Transit Center,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=14&s=16810
+61 - E-Line Trolley,West,Superior & West Roadway,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=14&s=10068
+61 - E-Line Trolley,West,SUPERIOR AV & W 6TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=14&s=10355
+61 - E-Line Trolley,West,SUPERIOR AV & W 9TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=14&s=10356
+61 - E-Line Trolley,West,W 9TH ST & LAKESIDE AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=14&s=14856
+61 - E-Line Trolley,West,W 9TH ST & ST. CLAIR AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=14&s=14857
+61 - E-Line Trolley,West,W LAKESIDE AV & W 9TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=14&s=17353
+61 - E-Line Trolley,West,W.6 & Johnson Ct (RTA HQ),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=151&d=14&s=14858
+62 - B-Line Trolley,Counterclo,1031 SUPERIOR AV E,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=152&d=10&s=16450
+62 - B-Line Trolley,Counterclo,E 12TH ST & HAMILTON AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=152&d=10&s=16112
+62 - B-Line Trolley,Counterclo,E 12TH ST & ROCKWELL AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=152&d=10&s=16818
+62 - B-Line Trolley,Counterclo,E 12TH ST & ST. CLAIR AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=152&d=10&s=17714
+62 - B-Line Trolley,Counterclo,LAKESIDE AV & E 6TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=152&d=10&s=13240
+62 - B-Line Trolley,Counterclo,LAKESIDE AV & E 9TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=152&d=10&s=14855
+62 - B-Line Trolley,Counterclo,LAKESIDE AV & E 12TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=152&d=10&s=16113
+62 - B-Line Trolley,Counterclo,LAKESIDE AV & ONTARIO ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=152&d=10&s=13242
+62 - B-Line Trolley,Counterclo,LAKESIDE AV & W 3RD ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=152&d=10&s=13244
+62 - B-Line Trolley,Counterclo,LAKESIDE AV & W MALL DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=152&d=10&s=17754
+62 - B-Line Trolley,Counterclo,Public Sq.-Terminal Twr.,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=152&d=10&s=17297
+62 - B-Line Trolley,Counterclo,SUPERIOR AV & E 3RD ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=152&d=10&s=17453
+62 - B-Line Trolley,Counterclo,SUPERIOR AV & E 6TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=152&d=10&s=14273
+62 - B-Line Trolley,Counterclo,SUPERIOR AV & E 9TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=152&d=10&s=10264
+62 - B-Line Trolley,Counterclo,SUPERIOR AV & W 3RD ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=152&d=10&s=10353
+62 - B-Line Trolley,Counterclo,W 6TH ST & FRANKFORT AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=152&d=10&s=14564
+62 - B-Line Trolley,Counterclo,W LAKESIDE AV & W 9TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=152&d=10&s=17353
+62 - B-Line Trolley,Counterclo,W.6 & Johnson Ct (RTA HQ),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=152&d=10&s=14858
+62 - B-Line Trolley,Counterclo,W.6 & Johnson Ct (RTA HQ),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=152&d=10&s=14858
 63 - C-Line Trolley,Counterclo,1001 ST. CLAIR AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=189&d=10&s=10241
 63 - C-Line Trolley,Counterclo,1028 PROSPECT AV E,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=189&d=10&s=11221
 63 - C-Line Trolley,Counterclo,E 12TH ST & CHESTER AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=189&d=10&s=16974
@@ -6413,3 +7363,163 @@
 94 - E. 260-Richmond,South,Shore Ctr Dr & Babbitt Rd,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=34&d=7&s=16719
 94 - E. 260-Richmond,South,TRI-C EAST PARKING LOT R,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=34&d=7&s=17035
 94 - E. 260-Richmond,South,Tri-C Eastern Campus,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=34&d=7&s=854
+246 - Westlake Park-N-Ride,East,CHESTER AV & E 15TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=3&s=10573
+246 - Westlake Park-N-Ride,East,CHESTER AV & E 17TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=3&s=12372
+246 - Westlake Park-N-Ride,East,CHESTER AV & E 18TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=3&s=12373
+246 - Westlake Park-N-Ride,East,E 12TH ST & ROCKWELL AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=3&s=16818
+246 - Westlake Park-N-Ride,East,E 13TH ST & ROCKWELL AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=3&s=16889
+246 - Westlake Park-N-Ride,East,E 21ST ST & EUCLID AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=3&s=12777
+246 - Westlake Park-N-Ride,East,ONTARIO ST & CARNEGIE AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=3&s=10757
+246 - Westlake Park-N-Ride,East,ONTARIO ST & EUCLID AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=3&s=11118
+246 - Westlake Park-N-Ride,East,ONTARIO ST & PROSPECT AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=3&s=11117
+246 - Westlake Park-N-Ride,East,ONTARIO ST & QUICKEN LOANS ARENA,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=3&s=10993
+246 - Westlake Park-N-Ride,East,STJ Transit Center,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=3&s=17255
+246 - Westlake Park-N-Ride,East,SUPERIOR AV & E 3RD ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=3&s=17453
+246 - Westlake Park-N-Ride,East,SUPERIOR AV & E 6TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=3&s=14273
+246 - Westlake Park-N-Ride,East,SUPERIOR AV & E 9TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=3&s=10264
+246 - Westlake Park-N-Ride,East,WESTLAKE PARK-N-RIDE EXIT & COLUMBIA RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=3&s=15460
+246 - Westlake Park-N-Ride,East,WESTLAKE PARK-N-RIDE STOP #2,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=3&s=537
+246 - Westlake Park-N-Ride,East,WESTLAKE PARK-N-RIDE STOP #3,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=3&s=8788
+246 - Westlake Park-N-Ride,East,Westlake Park-n-Ride,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=3&s=904
+246 - Westlake Park-N-Ride,West,1027 SUPERIOR AV E,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=14&s=11222
+246 - Westlake Park-N-Ride,West,CHESTER AV & E 13TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=14&s=10572
+246 - Westlake Park-N-Ride,West,CHESTER AV & E 17TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=14&s=15655
+246 - Westlake Park-N-Ride,West,CHESTER AV & E 21ST ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=14&s=16887
+246 - Westlake Park-N-Ride,West,E 3RD ST & ROCKWELL AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=14&s=9355
+246 - Westlake Park-N-Ride,West,E 12TH ST & SUPERIOR AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=14&s=14875
+246 - Westlake Park-N-Ride,West,E 22ND ST & EUCLID AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=14&s=12782
+246 - Westlake Park-N-Ride,West,FRANKFORT AV & W 3RD ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=14&s=17298
+246 - Westlake Park-N-Ride,West,FRANKFORT AV & W 6TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=14&s=17664
+246 - Westlake Park-N-Ride,West,ONTARIO ST & HURON RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=14&s=13697
+246 - Westlake Park-N-Ride,West,Prospect-Tower City EB,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=14&s=14865
+246 - Westlake Park-N-Ride,West,ROCKWELL AV & E 12TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=14&s=16817
+246 - Westlake Park-N-Ride,West,ROCKWELL AV & EAST ROADWAY,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=14&s=16191
+246 - Westlake Park-N-Ride,West,STJ Transit Center,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=14&s=17255
+246 - Westlake Park-N-Ride,West,SUPERIOR AV & E 6TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=14&s=10314
+246 - Westlake Park-N-Ride,West,Westlake Park-n-Ride,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=140&d=14&s=904
+251 - Strongsville Park-N-Ride,North,8367 PEARL RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=11721
+251 - Strongsville Park-N-Ride,North,14177 PEARL RD (ALDI SUPERMARKET),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=17438
+251 - Strongsville Park-N-Ride,North,15653 PEARL RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=11321
+251 - Strongsville Park-N-Ride,North,17834 PEARL RD (FLAG),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=11353
+251 - Strongsville Park-N-Ride,North,19007 PEARL RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=17171
+251 - Strongsville Park-N-Ride,North,19101 PEARL RD (FLAG),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=15260
+251 - Strongsville Park-N-Ride,North,Arrive Strongsville Park-N-Ride,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=15234
+251 - Strongsville Park-N-Ride,North,CHESTER AV & E 12TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=12370
+251 - Strongsville Park-N-Ride,North,CHESTER AV & E 15TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=10573
+251 - Strongsville Park-N-Ride,North,CHESTER AV & E 17TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=12372
+251 - Strongsville Park-N-Ride,North,CHESTER AV & E 18TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=12373
+251 - Strongsville Park-N-Ride,North,E 21ST ST & EUCLID AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=12777
+251 - Strongsville Park-N-Ride,North,Laurel Square Shopping Ctr,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=15245
+251 - Strongsville Park-N-Ride,North,ONTARIO ST & CARNEGIE AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=10757
+251 - Strongsville Park-N-Ride,North,ONTARIO ST & EUCLID AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=11118
+251 - Strongsville Park-N-Ride,North,ONTARIO ST & PROSPECT AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=11117
+251 - Strongsville Park-N-Ride,North,ONTARIO ST & QUICKEN LOANS ARENA,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=10993
+251 - Strongsville Park-N-Ride,North,Pearl & Drake,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=12568
+251 - Strongsville Park-N-Ride,North,PEARL RD & ADMIRALTY DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=13734
+251 - Strongsville Park-N-Ride,North,PEARL RD & ALBION RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=13736
+251 - Strongsville Park-N-Ride,North,PEARL RD & ALPINE HILL CT (FLAG),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=15254
+251 - Strongsville Park-N-Ride,North,PEARL RD & BOSTON RD (FLAG),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=13751
+251 - Strongsville Park-N-Ride,North,PEARL RD & BROXTON DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=13732
+251 - Strongsville Park-N-Ride,North,PEARL RD & CENTER RD (FLAG),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=15248
+251 - Strongsville Park-N-Ride,North,PEARL RD & COOK AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=13764
+251 - Strongsville Park-N-Ride,North,PEARL RD & ECHO DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=15224
+251 - Strongsville Park-N-Ride,North,PEARL RD & ELLSWORTH DR (FLAG),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=590
+251 - Strongsville Park-N-Ride,North,PEARL RD & FALLINGWATER RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=13778
+251 - Strongsville Park-N-Ride,North,PEARL RD & GRAFTON RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=15256
+251 - Strongsville Park-N-Ride,North,PEARL RD & IDLEWOOD TRAIL,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=11243
+251 - Strongsville Park-N-Ride,North,PEARL RD & KELLER-HANNA DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=15250
+251 - Strongsville Park-N-Ride,North,PEARL RD & KNOWLTON PKWY,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=11328
+251 - Strongsville Park-N-Ride,North,PEARL RD & LUNN RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=17418
+251 - Strongsville Park-N-Ride,North,PEARL RD & MAGNOLIA DR (FLAG),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=15258
+251 - Strongsville Park-N-Ride,North,PEARL RD & MEADOW LN,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=17419
+251 - Strongsville Park-N-Ride,North,PEARL RD & OXFORD DR (FLAG),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=15246
+251 - Strongsville Park-N-Ride,North,PEARL RD & PROGRESS DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=11261
+251 - Strongsville Park-N-Ride,North,PEARL RD & ROLLING HILLS DR (FLAG),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=15252
+251 - Strongsville Park-N-Ride,North,PEARL RD & SKYVIEW DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=13825
+251 - Strongsville Park-N-Ride,North,PEARL RD & STRONGSVILLE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=17420
+251 - Strongsville Park-N-Ride,North,PEARL RD & WESTWOOD DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=17594
+251 - Strongsville Park-N-Ride,North,PEARL RD & WHITNEY RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=13847
+251 - Strongsville Park-N-Ride,North,PEARL RD & ZVERINA LN,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=11286
+251 - Strongsville Park-N-Ride,North,STJ Transit Center,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=17257
+251 - Strongsville Park-N-Ride,North,Strongsville Park-N-Ride,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=15234
+251 - Strongsville Park-N-Ride,North,SUPERIOR AV & E 3RD ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=17453
+251 - Strongsville Park-N-Ride,North,SUPERIOR AV & E 6TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=14273
+251 - Strongsville Park-N-Ride,North,SUPERIOR AV & E 9TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=10264
+251 - Strongsville Park-N-Ride,North,SUPERIOR AV & E 12TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=5&s=10280
+251 - Strongsville Park-N-Ride,South,1027 SUPERIOR AV E,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=11222
+251 - Strongsville Park-N-Ride,South,8380 PEARL RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=15237
+251 - Strongsville Park-N-Ride,South,13200 PEARL RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=11279
+251 - Strongsville Park-N-Ride,South,14092 PEARL RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=11301
+251 - Strongsville Park-N-Ride,South,15650 PEARL RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=11320
+251 - Strongsville Park-N-Ride,South,17834 PEARL RD (FLAG),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=11354
+251 - Strongsville Park-N-Ride,South,18300 PEARL RD (FLAG),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=15259
+251 - Strongsville Park-N-Ride,South,CHESTER AV & E 13TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=10572
+251 - Strongsville Park-N-Ride,South,CHESTER AV & E 17TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=15655
+251 - Strongsville Park-N-Ride,South,CHESTER AV & E 21ST ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=16887
+251 - Strongsville Park-N-Ride,South,E 3RD ST & ROCKWELL AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=9355
+251 - Strongsville Park-N-Ride,South,E 22ND ST & EUCLID AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=12782
+251 - Strongsville Park-N-Ride,South,FRANKFORT AV & W 3RD ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=17298
+251 - Strongsville Park-N-Ride,South,FRANKFORT AV & W 6TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=17664
+251 - Strongsville Park-N-Ride,South,Laurel Square Shopping Ctr,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=15245
+251 - Strongsville Park-N-Ride,South,ONTARIO ST & HURON RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=13697
+251 - Strongsville Park-N-Ride,South,Pearl & Drake,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=13768
+251 - Strongsville Park-N-Ride,South,PEARL RD & ADMIRALTY DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=17240
+251 - Strongsville Park-N-Ride,South,PEARL RD & ALBION RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=13737
+251 - Strongsville Park-N-Ride,South,PEARL RD & BEVERLY HILLS DR (FLAG),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=15257
+251 - Strongsville Park-N-Ride,South,PEARL RD & BOSTON RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=13752
+251 - Strongsville Park-N-Ride,South,PEARL RD & BROXTON DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=17433
+251 - Strongsville Park-N-Ride,South,PEARL RD & ECHO DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=14951
+251 - Strongsville Park-N-Ride,South,PEARL RD & ELLSWORTH DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=591
+251 - Strongsville Park-N-Ride,South,PEARL RD & FALLINGWATER RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=13779
+251 - Strongsville Park-N-Ride,South,PEARL RD & GRAFTON RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=17761
+251 - Strongsville Park-N-Ride,South,PEARL RD & HOMESTEAD DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=15251
+251 - Strongsville Park-N-Ride,South,PEARL RD & IDLEWOOD TRAIL,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=13789
+251 - Strongsville Park-N-Ride,South,PEARL RD & KNOWLTON PKWY,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=17435
+251 - Strongsville Park-N-Ride,South,PEARL RD & LUNN RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=13800
+251 - Strongsville Park-N-Ride,South,PEARL RD & MANHATTAN AV (FLAG),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=15247
+251 - Strongsville Park-N-Ride,South,PEARL RD & MEADOW LN,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=17434
+251 - Strongsville Park-N-Ride,South,PEARL RD & PROGRESS DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=13814
+251 - Strongsville Park-N-Ride,South,PEARL RD & ROCKGLEN DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=13735
+251 - Strongsville Park-N-Ride,South,PEARL RD & ROLLING HILLS DR (FLAG),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=15253
+251 - Strongsville Park-N-Ride,South,PEARL RD & SHENANDOAH PKWY (FLAG),http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=15249
+251 - Strongsville Park-N-Ride,South,PEARL RD & SKYVIEW DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=13826
+251 - Strongsville Park-N-Ride,South,PEARL RD & STRONGSVILLE BLVD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=17432
+251 - Strongsville Park-N-Ride,South,PEARL RD & TEMPLE DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=13837
+251 - Strongsville Park-N-Ride,South,PEARL RD & WESTWOOD DR,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=13845
+251 - Strongsville Park-N-Ride,South,PEARL RD & WHITNEY RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=13848
+251 - Strongsville Park-N-Ride,South,Prospect-Tower City EB,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=14865
+251 - Strongsville Park-N-Ride,South,ROCKWELL AV & EAST ROADWAY,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=16191
+251 - Strongsville Park-N-Ride,South,STJ Transit Center,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=17257
+251 - Strongsville Park-N-Ride,South,Strongsville Park-N-Ride,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=15234
+251 - Strongsville Park-N-Ride,South,SUPERIOR AV & E 6TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=10314
+251 - Strongsville Park-N-Ride,South,SUPERIOR AV & E 12TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=115&d=7&s=10281
+263 - N. Olmsted Park-N-Ride,East,CHESTER AV & E 12TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=16&d=3&s=12370
+263 - N. Olmsted Park-N-Ride,East,CHESTER AV & E 15TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=16&d=3&s=10573
+263 - N. Olmsted Park-N-Ride,East,CHESTER AV & E 17TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=16&d=3&s=12372
+263 - N. Olmsted Park-N-Ride,East,CHESTER AV & E 18TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=16&d=3&s=12373
+263 - N. Olmsted Park-N-Ride,East,E 21ST ST & EUCLID AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=16&d=3&s=12777
+263 - N. Olmsted Park-N-Ride,East,N Olmsted Park-N-Ride,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=16&d=3&s=15761
+263 - N. Olmsted Park-N-Ride,East,ONTARIO ST & CARNEGIE AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=16&d=3&s=10757
+263 - N. Olmsted Park-N-Ride,East,ONTARIO ST & EUCLID AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=16&d=3&s=11118
+263 - N. Olmsted Park-N-Ride,East,ONTARIO ST & PROSPECT AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=16&d=3&s=11117
+263 - N. Olmsted Park-N-Ride,East,ONTARIO ST & QUICKEN LOANS ARENA,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=16&d=3&s=10993
+263 - N. Olmsted Park-N-Ride,East,STJ Transit Center,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=16&d=3&s=17258
+263 - N. Olmsted Park-N-Ride,East,SUPERIOR AV & E 3RD ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=16&d=3&s=17453
+263 - N. Olmsted Park-N-Ride,East,SUPERIOR AV & E 6TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=16&d=3&s=14273
+263 - N. Olmsted Park-N-Ride,East,SUPERIOR AV & E 9TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=16&d=3&s=10264
+263 - N. Olmsted Park-N-Ride,East,SUPERIOR AV & E 12TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=16&d=3&s=10280
+263 - N. Olmsted Park-N-Ride,West,1027 SUPERIOR AV E,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=16&d=14&s=11222
+263 - N. Olmsted Park-N-Ride,West,CHESTER AV & E 13TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=16&d=14&s=10572
+263 - N. Olmsted Park-N-Ride,West,CHESTER AV & E 17TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=16&d=14&s=15655
+263 - N. Olmsted Park-N-Ride,West,CHESTER AV & E 21ST ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=16&d=14&s=16887
+263 - N. Olmsted Park-N-Ride,West,E 3RD ST & ROCKWELL AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=16&d=14&s=9355
+263 - N. Olmsted Park-N-Ride,West,E 22ND ST & EUCLID AV,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=16&d=14&s=12782
+263 - N. Olmsted Park-N-Ride,West,FRANKFORT AV & W 3RD ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=16&d=14&s=17298
+263 - N. Olmsted Park-N-Ride,West,FRANKFORT AV & W 6TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=16&d=14&s=17664
+263 - N. Olmsted Park-N-Ride,West,N Olmsted Park-N-Ride,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=16&d=14&s=15761
+263 - N. Olmsted Park-N-Ride,West,ONTARIO ST & HURON RD,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=16&d=14&s=13697
+263 - N. Olmsted Park-N-Ride,West,Prospect-Tower City EB,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=16&d=14&s=14865
+263 - N. Olmsted Park-N-Ride,West,ROCKWELL AV & EAST ROADWAY,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=16&d=14&s=16191
+263 - N. Olmsted Park-N-Ride,West,STJ Transit Center,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=16&d=14&s=17258
+263 - N. Olmsted Park-N-Ride,West,SUPERIOR AV & E 6TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=16&d=14&s=10314
+263 - N. Olmsted Park-N-Ride,West,SUPERIOR AV & E 12TH ST,http://www.nextconnect.riderta.com/LiveADADepartureTimes?r=16&d=14&s=10281
