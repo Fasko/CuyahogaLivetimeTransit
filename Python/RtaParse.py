@@ -1,10 +1,10 @@
 from bs4 import BeautifulSoup
 import requests
-file = open('All_Routes')
-i = 1
+adaDepartureTimes_link = "http://www.nextconnect.riderta.com/LiveADADepartureTimes"
+website_page_response = requests.get(adaDepartureTimes_link, timeout=5)
+all_routes_page_content = BeautifulSoup(website_page_response.text)
 fh = open("Routes_Directions_Stops.txt", 'a')
-all_routes = BeautifulSoup(file, 'html.parser')
-for route_page_link in all_routes.find_all('a'):
+for route_page_link in all_routes_page_content.find_all(attrs={"class": "adalink"}):
     current_route_page_link = 'http://www.nextconnect.riderta.com/LiveADADepartureTimes' + route_page_link.get('href')
     route_page_response = requests.get(current_route_page_link, timeout=5)
     route_page_content = BeautifulSoup(route_page_response.content, "html.parser")
