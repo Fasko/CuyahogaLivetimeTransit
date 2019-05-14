@@ -30,14 +30,10 @@ public class Alerts extends AppCompatActivity {
                     case R.id.navigation_favorites:
                         Intent a = new Intent(Alerts.this, MainActivity.class);
                         startActivity(a);
-                        finish();
-
                         break;
                     case R.id.navigation_schedules:
                         Intent b = new Intent(Alerts.this, Routes.class);
                         startActivity(b);
-                        finish();
-
                         break;
                     case R.id.navigation_alerts:
                         break;

@@ -56,14 +56,12 @@ public class Routes extends AppCompatActivity implements OnMapReadyCallback {
                     case R.id.navigation_favorites:
                         Intent a = new Intent(Routes.this,MainActivity.class);
                         startActivity(a);
-                        finish();
                         break;
                     case R.id.navigation_schedules:
                         break;
                     case R.id.navigation_alerts:
                         Intent b = new Intent(Routes.this, Alerts.class);
                         startActivity(b);
-                        finish();
                         break;
                 }
                 Routes.this.overridePendingTransition(0,0);

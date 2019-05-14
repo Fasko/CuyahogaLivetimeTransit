@@ -34,14 +34,10 @@ public class MainActivity extends AppCompatActivity {
                     case R.id.navigation_schedules:
                         Intent a = new Intent(MainActivity.this, Routes.class);
                         startActivity(a);
-                        finish();
-
                         break;
                     case R.id.navigation_alerts:
                         Intent b = new Intent(MainActivity.this, Alerts.class);
                         startActivity(b);
-                        finish();
-
                         break;
                 }
                 MainActivity.this.overridePendingTransition(0,0);
