@@ -28,7 +28,7 @@ public class Alerts extends AppCompatActivity {
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
                 switch (item.getItemId()) {
                     case R.id.navigation_favorites:
-                        Intent a = new Intent(Alerts.this, MainActivity.class);
+                        Intent a = new Intent(Alerts.this, Favorites.class);
                         startActivity(a);
                         break;
                     case R.id.navigation_schedules:

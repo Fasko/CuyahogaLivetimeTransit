@@ -19,6 +19,12 @@
             android:id="@+id/homeTitle1"
             android:textAlignment="center"/>
 
+        <TextView
+            android:id="@+id/displayInfoFav"
+            android:layout_width="341dp"
+            android:layout_height="418dp"
+            android:text="TextView" />
+
     </RelativeLayout>
 
     <android.support.design.widget.BottomNavigationView

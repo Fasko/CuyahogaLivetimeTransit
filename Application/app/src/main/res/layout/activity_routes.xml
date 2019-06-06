@@ -42,7 +42,7 @@
             android:layout_marginTop="10dp" />
 
         <TextView
-            android:id="@+id/displayInfo"
+            android:id="@+id/displayInfoRT"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@+id/spinStop"
@@ -56,7 +56,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:id="@+id/map"
-            android:layout_below="@id/displayInfo"
+            android:layout_below="@id/displayInfoRT"
             tools:context=".MapsActivity"
             android:name="com.google.android.gms.maps.SupportMapFragment" />
 

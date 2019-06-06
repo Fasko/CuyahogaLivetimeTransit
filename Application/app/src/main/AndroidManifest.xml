@@ -17,7 +17,7 @@
             android:name="com.mfsa.cuyahogalivetimetransit.Routes"
             android:launchMode="singleTask" />
         <activity
-            android:name="com.mfsa.cuyahogalivetimetransit.MainActivity"
+            android:name="com.mfsa.cuyahogalivetimetransit.Favorites"
             android:launchMode="singleTop"
             android:label="@string/app_name">
             <intent-filter>

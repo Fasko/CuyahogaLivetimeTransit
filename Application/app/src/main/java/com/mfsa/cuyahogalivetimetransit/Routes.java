@@ -1,6 +1,5 @@
 package com.mfsa.cuyahogalivetimetransit;
 
-import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -54,7 +53,7 @@ public class Routes extends AppCompatActivity implements OnMapReadyCallback {
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
                 switch (item.getItemId()) {
                     case R.id.navigation_favorites:
-                        Intent a = new Intent(Routes.this,MainActivity.class);
+                        Intent a = new Intent(Routes.this,Favorites.class);
                         startActivity(a);
                         break;
                     case R.id.navigation_schedules:
@@ -141,7 +140,7 @@ public class Routes extends AppCompatActivity implements OnMapReadyCallback {
         final Spinner spinStops = findViewById(R.id.spinStop);
         spinnerArrayAdapterStop.insert("Select a Stop:",0);
 
-        TextView tv = findViewById(R.id.displayInfo);
+        TextView tv = findViewById(R.id.displayInfoRT);
 
         tv.setText("");
 
@@ -215,7 +214,6 @@ public class Routes extends AppCompatActivity implements OnMapReadyCallback {
             return document;
         }
 
-        @SuppressLint("SetTextI18n")
         @Override
         protected void onPostExecute(Document document) {
             Elements nextVehicles = document.select(".ada");
@@ -223,7 +221,7 @@ public class Routes extends AppCompatActivity implements OnMapReadyCallback {
 
             Elements arrivalTime = document.select(".adatime");
             List<String> adatimeClass = arrivalTime.eachAttr("title");
-            TextView displayInfo = findViewById(R.id.displayInfo);
+            TextView displayInfo = findViewById(R.id.displayInfoRT);
 
             ArrayList<String> stopLabel = new ArrayList<String>();
             Elements scheduledTimes = document.select(".stopLabel");
