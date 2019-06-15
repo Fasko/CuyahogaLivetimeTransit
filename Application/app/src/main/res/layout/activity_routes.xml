@@ -60,6 +60,14 @@
             tools:context=".MapsActivity"
             android:name="com.google.android.gms.maps.SupportMapFragment" />
 
+        <ImageButton
+            android:id="@+id/favoriteBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:layout_toRightOf="@+id/displayInfoRT"
+            app:srcCompat="@android:drawable/btn_star_big_off" />
+
     </RelativeLayout>
 
     <android.support.design.widget.BottomNavigationView

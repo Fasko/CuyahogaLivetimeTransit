@@ -11,6 +11,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.ImageButton;
 import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -44,10 +45,21 @@ public class Routes extends AppCompatActivity implements OnMapReadyCallback {
                 .findFragmentById(R.id.map);
         mapFragment.getMapAsync(this);
 
+        ImageButton favoriteButton = findViewById(R.id.favoriteBtn);
+        favoriteButton.setVisibility(View.GONE);
+
+        // If user clicks the favorite button, add the RDS String, and URL to a JSON format
+        favoriteButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            // TODO: Should also check if user already added this RDS to favorites
+            public void onClick(View v) {
+                Toast.makeText(getApplicationContext(), "Added Selection to Favorites!", Toast.LENGTH_SHORT).show();
+
+            }
+        });
+
         BottomNavigationView navigation = (BottomNavigationView) findViewById(R.id.navigation);
-
         navigation.setSelectedItemId(R.id.navigation_schedules);
-
         navigation.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
             @Override
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
@@ -88,6 +100,7 @@ public class Routes extends AppCompatActivity implements OnMapReadyCallback {
             @Override
             public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
                 populateDirections(parent.getSelectedItem().toString());
+                removeFavoriteOption(); // Don't Display favorite option when the user hasn't entered R+D+S
             }
 
             @Override
@@ -113,6 +126,7 @@ public class Routes extends AppCompatActivity implements OnMapReadyCallback {
         spinDirections.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             @Override
             public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+                removeFavoriteOption(); // Don't Display favorite option when the user hasn't entered R+D+S
                 populateStops(route,parent.getSelectedItem().toString());
             }
 
@@ -126,8 +140,6 @@ public class Routes extends AppCompatActivity implements OnMapReadyCallback {
     }
 
     protected void populateStops(final String route, final String direction) {
-
-
         final DatabaseAccess databaseAccess = DatabaseAccess.getInstance(getApplicationContext());
         databaseAccess.open();
 
@@ -201,7 +213,20 @@ public class Routes extends AppCompatActivity implements OnMapReadyCallback {
         async.execute(stopURL);
     }
 
-    public class MyAsyncTask extends AsyncTask<String, Void, Document> {
+    // Pop up some sort of img button to let the user know they can add to favorites
+    // TODO: Should also check if user already added this RDS to favorites, if so put a golden star
+    private void displayFavoriteOption() {
+        ImageButton favoriteButton = findViewById(R.id.favoriteBtn);
+        favoriteButton.setVisibility(View.VISIBLE);
+    }
+
+    // Hide the favorite option out of view
+    private void removeFavoriteOption() {
+        ImageButton favoriteButton = findViewById(R.id.favoriteBtn);
+        favoriteButton.setVisibility(View.GONE);
+    }
+
+    protected class MyAsyncTask extends AsyncTask<String, Void, Document> {
         // Fetch the HTML source from the website
         @Override
         protected Document doInBackground(String... strings) {
@@ -244,6 +269,7 @@ public class Routes extends AppCompatActivity implements OnMapReadyCallback {
                     stops = stops + "\n" + "Will arrive at " + adatimeClass.get(i) + ", " + stopLabel.get(i).toLowerCase();
                 }
                 displayInfo.setText(string0 + stops + "\n\n" + string1);
+                displayFavoriteOption();
             }
             System.out.println(adaClass);
             System.out.println(adatimeClass);
